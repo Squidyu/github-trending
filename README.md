@@ -8,6 +8,7 @@
 
 ## All language
 
+* 【2024-09-11】[josephburnett / jd](https://github.com/josephburnett/jd) - JSON diff and patch
 * 【2024-09-10】[RSSNext / Follow](https://github.com/RSSNext/Follow) - 🧡 Next generation information browser
 * 【2024-09-10】[johannesjo / super-productivity](https://github.com/johannesjo/super-productivity) - Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, Gitlab, GitHub and Open Project.
 * 【2024-09-09】[afadil / wealthfolio](https://github.com/afadil/wealthfolio) - A Beautiful Private and Secure Desktop Investment Tracking Application
@@ -185,6 +186,7 @@
 
 ## C#
 
+* 【2024-09-11】[microsoftgraph / group-membership-management](https://github.com/microsoftgraph/group-membership-management) - Group Membership Management (GMM) is a service that dynamically manages the membership of AAD Groups. Groups managed by GMM can have their membership defined using existing AAD Groups and/or custom membership sources.
 * 【2024-09-09】[nesrak1 / UABEA](https://github.com/nesrak1/UABEA) - c# uabe for newer versions of unity
 * 【2024-09-08】[Pik-4 / HsMod](https://github.com/Pik-4/HsMod) - Hearthstone Modify Based on BepInEx
 * 【2024-09-04】[Open-Industry-Project / Open-Industry-Project](https://github.com/Open-Industry-Project/Open-Industry-Project) - Free and open-source warehouse/manufacturing simulation.
