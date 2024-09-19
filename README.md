@@ -8,6 +8,7 @@
 
 ## All language
 
+* 【2024-09-19】[tungbq / devops-basics](https://github.com/tungbq/devops-basics) - 🚀 Practical and document place for DevOps toolchain
 * 【2024-09-18】[Morganamilo / paru](https://github.com/Morganamilo/paru) - Feature packed AUR helper
 * 【2024-09-17】[krayin / laravel-crm](https://github.com/krayin/laravel-crm) - Free & Opensource Laravel CRM solution for SMEs and Enterprises for complete customer lifecycle management.
 * 【2024-09-16】[frdel / agent-zero](https://github.com/frdel/agent-zero) - Agent Zero AI framework
@@ -186,6 +187,7 @@
 
 ## C++
 
+* 【2024-09-19】[zufuliu / notepad4](https://github.com/zufuliu/notepad4) - Notepad4 (Notepad2⨯2, Notepad2++) is a light-weight Scintilla based text editor for Windows with syntax highlighting, code folding, auto-completion and API list for many programming languages and documents, bundled with file browser plugin matepath.
 * 【2024-09-17】[mrousavy / nitro](https://github.com/mrousavy/nitro) - 🔥 Insanely fast native C++, Swift or Kotlin modules with a statically compiled binding layer to JSI
 * 【2024-09-14】[symless / synergy](https://github.com/symless/synergy) - Synergy lets you share one mouse and keyboard between multiple computers on Windows, macOS and Linux.
 * 【2024-09-12】[turing-machines / mentals-ai](https://github.com/turing-machines/mentals-ai) - 🍓🍓🍓 Agents in Markdown syntax (loops, memory and tools included).
