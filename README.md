@@ -8,6 +8,9 @@
 
 ## All language
 
+* 【2024-09-29】[mediar-ai / screenpipe](https://github.com/mediar-ai/screenpipe) - 24/7 local AI screen & mic recording. Build AI apps that have the full context. Works with Ollama. Alternative to Rewind.ai. Open. Secure. You own your data. Rust.
+* 【2024-09-29】[exo-explore / exo](https://github.com/exo-explore/exo) - Run your own AI cluster at home with everyday devices 📱💻 🖥️⌚
+* 【2024-09-29】[nikitabobko / AeroSpace](https://github.com/nikitabobko/AeroSpace) - AeroSpace is an i3-like tiling window manager for macOS
 * 【2024-09-28】[Yonom / assistant-ui](https://github.com/Yonom/assistant-ui) - React Components for AI Chat 💬 🚀
 * 【2024-09-28】[src-d / hercules](https://github.com/src-d/hercules) - Gaining advanced insights from Git repository history.
 * 【2024-09-28】[statamic / cms](https://github.com/statamic/cms) - The core Laravel CMS Composer package
@@ -98,6 +101,9 @@
 
 ## Python
 
+* 【2024-09-29】[pytorch / ao](https://github.com/pytorch/ao) - PyTorch native quantization and sparsity for training and inference
+* 【2024-09-29】[google-research / circuit_training](https://github.com/google-research/circuit_training) - 
+* 【2024-09-29】[make-all / tuya-local](https://github.com/make-all/tuya-local) - Local support for Tuya devices in Home Assistant
 * 【2024-09-26】[microsoft / RD-Agent](https://github.com/microsoft/RD-Agent) - Research and development (R&D) is crucial for the enhancement of industrial productivity, especially in the AI era, where the core aspects of R&D are mainly focused on data and models. We are committed to automate these high-value generic R&D processes through our open source R&D automation tool RD-Agent, which let AI drive data-driven AI.
 * 【2024-09-24】[LibraHp / GetQzonehistory](https://github.com/LibraHp/GetQzonehistory) - 获取QQ空间发布的历史说说
 * 【2024-09-21】[rspeer / wordfreq](https://github.com/rspeer/wordfreq) - Access a database of word frequencies, in various natural languages.
@@ -148,6 +154,7 @@
 
 ## Javascript
 
+* 【2024-09-29】[LedgerHQ / ledger-live](https://github.com/LedgerHQ/ledger-live) - Mono-repository for packages related to Ledger Live and its JavaScript ecosystem.
 * 【2024-09-27】[ThePansmith / Monifactory](https://github.com/ThePansmith/Monifactory) - A Modern Remaster of Nomifactory
 * 【2024-09-25】[chrishubert / whatsapp-api](https://github.com/chrishubert/whatsapp-api) - This project is a REST API wrapper for the whatsapp-web.js library, providing an easy-to-use interface to interact with the WhatsApp Web platform.
 * 【2024-09-23】[Neet-Nestor / Telegram-Media-Downloader](https://github.com/Neet-Nestor/Telegram-Media-Downloader) - A script allowing you to download images and videos from Telegram web even if the group restricts downloading.
@@ -200,6 +207,8 @@
 
 ## C
 
+* 【2024-09-29】[orangeduck / Cello](https://github.com/orangeduck/Cello) - Higher level programming in C
+* 【2024-09-29】[OpenPrinting / cups](https://github.com/OpenPrinting/cups) - OpenPrinting CUPS Sources
 * 【2024-09-25】[cnlohr / rawdrawandroid](https://github.com/cnlohr/rawdrawandroid) - Build android apps without any java, entirely in C and Make
 * 【2024-09-23】[TechUnRestricted / WinDiskWriter](https://github.com/TechUnRestricted/WinDiskWriter) - 🖥 Windows Bootable USB creator for macOS. 🛠 Patches Windows 11 to bypass TPM and Secure Boot requirements. 👾 UEFI & Legacy Support
 * 【2024-09-20】[klonyyy / MCUViewer](https://github.com/klonyyy/MCUViewer) - Real-time embedded variable & trace viewer
@@ -272,6 +281,7 @@
 
 ## Html
 
+* 【2024-09-29】[steveseguin / vdo.ninja](https://github.com/steveseguin/vdo.ninja) - VDO.Ninja is a powerful tool that lets you bring remote video feeds into OBS or other studio software via WebRTC.
 * 【2024-09-22】[git / git-scm.com](https://github.com/git/git-scm.com) - The git-scm.com website. Note that this repository is only for the website; issues with git itself should go to https://git-scm.com/community.
 * 【2024-09-13】[opulo-inc / lumenpnp](https://github.com/opulo-inc/lumenpnp) - The LumenPnP is an open source pick and place machine.
 * 【2024-09-09】[ONDC-Official / verification-logs](https://github.com/ONDC-Official/verification-logs) - ONDC Pre-production issue & discussion board
