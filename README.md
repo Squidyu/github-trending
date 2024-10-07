@@ -8,6 +8,8 @@
 
 ## All language
 
+* 【2024-10-07】[onejs / one](https://github.com/onejs/one) - ❶ One is a new React framework that makes cross-platform simple. Target web and native with just Vite.
+* 【2024-10-07】[ErikBjare / gptme](https://github.com/ErikBjare/gptme) - Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web, vision.
 * 【2024-10-04】[XengShi / materialYouNewTab](https://github.com/XengShi/materialYouNewTab) - A Simple New Tab ( browsers's home page ) inspired with Google's 'Material You' design
 * 【2024-10-04】[simplex-chat / simplex-chat](https://github.com/simplex-chat/simplex-chat) - SimpleX - the first messaging network operating without user identifiers of any kind - 100% private by design! iOS, Android and desktop apps 📱!
 * 【2024-10-04】[xenova / whisper-web](https://github.com/xenova/whisper-web) - ML-powered speech recognition directly in your browser
@@ -107,6 +109,8 @@
 
 ## Python
 
+* 【2024-10-07】[karpathy / build-nanogpt](https://github.com/karpathy/build-nanogpt) - Video+code lecture on building nanoGPT from scratch
+* 【2024-10-07】[AlfredoUen / JableTV](https://github.com/AlfredoUen/JableTV) - Jable.TV Download (GUI tool)
 * 【2024-10-05】[laramies / theHarvester](https://github.com/laramies/theHarvester) - E-mails, subdomains and names Harvester - OSINT
 * 【2024-10-04】[fedirz / faster-whisper-server](https://github.com/fedirz/faster-whisper-server) - 
 * 【2024-10-04】[lightly-ai / lightly](https://github.com/lightly-ai/lightly) - A python library for self-supervised learning on images.
@@ -195,6 +199,7 @@
 
 ## Go
 
+* 【2024-10-07】[chainflag / eth-faucet](https://github.com/chainflag/eth-faucet) - Ether faucet server built with Go and Svelte.
 * 【2024-10-03】[peer-calls / peer-calls](https://github.com/peer-calls/peer-calls) - Group peer to peer video calls for everyone written in Go and TypeScript
 * 【2024-10-03】[sensepost / gowitness](https://github.com/sensepost/gowitness) - 🔍 gowitness - a golang, web screenshot utility using Chrome Headless
 * 【2024-09-27】[hemilabs / heminetwork](https://github.com/hemilabs/heminetwork) - The hemi network core daemons.
@@ -306,6 +311,7 @@
 
 ## Html
 
+* 【2024-10-07】[iamrahulmahato / master-web-development](https://github.com/iamrahulmahato/master-web-development) - Learn to code by building projects.
 * 【2024-10-04】[tushargupta1504 / Medical-Website](https://github.com/tushargupta1504/Medical-Website) - Very basic project for the beginner''s
 * 【2024-10-03】[maximevaillancourt / digital-garden-jekyll-template](https://github.com/maximevaillancourt/digital-garden-jekyll-template) - Start your own digital garden using this Jekyll template 🌱
 * 【2024-09-29】[steveseguin / vdo.ninja](https://github.com/steveseguin/vdo.ninja) - VDO.Ninja is a powerful tool that lets you bring remote video feeds into OBS or other studio software via WebRTC.
