@@ -8,6 +8,10 @@
 
 ## All language
 
+* 【2024-10-20】[microsoft / openvmm](https://github.com/microsoft/openvmm) - Home of OpenVMM and OpenHCL.
+* 【2024-10-20】[fingerprintjs / fingerprintjs](https://github.com/fingerprintjs/fingerprintjs) - The most advanced browser fingerprinting library.
+* 【2024-10-20】[facebookresearch / co-tracker](https://github.com/facebookresearch/co-tracker) - CoTracker is a model for tracking any point (pixel) on a video.
+* 【2024-10-20】[mirai-mamori / Sakurairo](https://github.com/mirai-mamori/Sakurairo) - 一个多彩、轻松上手、体验完善，具有强大自定义功能的WordPress主题（基于Sakura主题，支持简繁英日多语言）A Colorful, Easy-to-use, Perfect Experience, and Powerful Customizable WordPress Theme (Based on Theme Sakura. Support Simplified Chinese, Traditional Chinese, English and Japanese languages)
 * 【2024-10-16】[openai / swarm](https://github.com/openai/swarm) - Educational framework exploring ergonomic, lightweight multi-agent orchestration. Managed by OpenAI Solution team.
 * 【2024-10-13】[cline / cline](https://github.com/cline/cline) - Autonomous coding agent right in your IDE, capable of creating/editing files, executing commands, and more with your permission every step of the way.
 * 【2024-10-12】[mfts / papermark](https://github.com/mfts/papermark) - Papermark is the open-source DocSend alternative with built-in analytics and custom domains.
@@ -184,6 +188,7 @@
 
 ## Javascript
 
+* 【2024-10-20】[huggingface / transformers.js](https://github.com/huggingface/transformers.js) - State-of-the-art Machine Learning for the web. Run 🤗 Transformers directly in your browser, with no need for a server!
 * 【2024-10-16】[chaxus / ran](https://github.com/chaxus/ran) - web components library, machine learning, function library and so on.
 * 【2024-10-13】[sindresorhus / eslint-plugin-unicorn](https://github.com/sindresorhus/eslint-plugin-unicorn) - More than 100 powerful ESLint rules
 * 【2024-10-11】[revoltchat / self-hosted](https://github.com/revoltchat/self-hosted) - Deploy Revolt using Docker.
@@ -373,6 +378,7 @@
 
 ## Css
 
+* 【2024-10-20】[iamparas0 / TIC-TAC-TOE](https://github.com/iamparas0/TIC-TAC-TOE) - take a preview
 * 【2024-10-11】[appsecco / dvja](https://github.com/appsecco/dvja) - Damn Vulnerable Java (EE) Application
 * 【2024-10-08】[SurajPratap10 / Imagine_AI](https://github.com/SurajPratap10/Imagine_AI) - The IMAGINE - AI, which is built using the OpenAI API library DALL-E 2, aims to solve the problem of limited creativity and imagination. This is a fully mobile responsive image generator built with Node.js and Express that uses OpenAI's Dall-E models to generate images.
 * 【2024-10-04】[aslams2020 / Stark-Tech-Portfolio](https://github.com/aslams2020/Stark-Tech-Portfolio) - A tribute to Iron Man! This portfolio website is inspired by the iconic character Tony Stark and is designed to showcase various projects, skills, and experiences in a sleek and modern interface, reflecting the high-tech and innovative spirit of Stark Industries.
