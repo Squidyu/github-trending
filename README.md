@@ -8,6 +8,7 @@
 
 ## All language
 
+* 【2024-10-29】[ai16z / eliza](https://github.com/ai16z/eliza) - Conversational Agent for Twitter and Discord
 * 【2024-10-27】[asterinas / asterinas](https://github.com/asterinas/asterinas) - Asterinas is a secure, fast, and general-purpose OS kernel, written in Rust and providing Linux-compatible ABI.
 * 【2024-10-26】[dittofeed / dittofeed](https://github.com/dittofeed/dittofeed) - Open-source customer engagement. Automate transactional and marketing messages across email, SMS, mobile push, WhatsApp, Slack, and more 📨
 * 【2024-10-26】[vfsfitvnm / ViMusic](https://github.com/vfsfitvnm/ViMusic) - An Android application for streaming music from YouTube Music.
@@ -100,6 +101,7 @@
 
 ## Java
 
+* 【2024-10-29】[CaffeineMC / sodium](https://github.com/CaffeineMC/sodium) - A Minecraft mod designed to improve frame rates and reduce micro-stutter
 * 【2024-10-23】[Catfriend1 / syncthing-android](https://github.com/Catfriend1/syncthing-android) - Syncthing-Fork - A Syncthing Wrapper for Android.
 * 【2024-10-23】[akhilkammila / leetcode-screenshotter](https://github.com/akhilkammila/leetcode-screenshotter) - screenshots leetcode editorials and problems
 * 【2024-10-22】[SoLegendary / reignofnether](https://github.com/SoLegendary/reignofnether) - 
@@ -284,6 +286,7 @@
 
 ## C
 
+* 【2024-10-29】[eadmaster / pcrown](https://github.com/eadmaster/pcrown) - Princess Crown Translation Project Unofficial Redux
 * 【2024-10-23】[samtools / bcftools](https://github.com/samtools/bcftools) - This is the official development repository for BCFtools. See installation instructions and other documentation here http://samtools.github.io/bcftools/howtos/install.html
 * 【2024-10-17】[CodeWithHarry / The-Ultimate-C-Programming-Course](https://github.com/CodeWithHarry/The-Ultimate-C-Programming-Course) - This is the C language code and supplement material for the Ultimate C language Course on CodeWithHarry
 * 【2024-10-16】[Yowkees / keyball](https://github.com/Yowkees/keyball) - keyball is split keyboard has 100% track ball
