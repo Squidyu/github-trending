@@ -8,6 +8,7 @@
 
 ## All language
 
+* 【2024-11-27】[ant-design / x](https://github.com/ant-design/x) - Craft AI-driven interfaces effortlessly 🤖
 * 【2024-11-25】[pingcap / autoflow](https://github.com/pingcap/autoflow) - pingcap/autoflow is a Graph RAG based and conversational knowledge base tool built with TiDB Serverless Vector Storage. Demo: https://tidb.ai
 * 【2024-11-24】[black-forest-labs / flux](https://github.com/black-forest-labs/flux) - Official inference repo for FLUX.1 models
 * 【2024-11-20】[arkohut / pensieve](https://github.com/arkohut/pensieve) - A passive recording project allows you to have complete control over your data. 一个完全由你掌控数据的「被动记录」项目。
@@ -317,6 +318,7 @@
 
 ## Go
 
+* 【2024-11-27】[sqshq / sampler](https://github.com/sqshq/sampler) - Tool for shell commands execution, visualization and alerting. Configured with a simple YAML file.
 * 【2024-11-21】[hugomd / ascii-live](https://github.com/hugomd/ascii-live) - An extension to parrot.live, with support for more animations! http://ascii.live
 * 【2024-11-18】[jesusprubio / up](https://github.com/jesusprubio/up) - 📶 Troubleshoot problems with your Internet connection
 * 【2024-11-17】[ethereum-optimism / supersim](https://github.com/ethereum-optimism/supersim) - Local Multi-L2 Development Environment
@@ -559,6 +561,7 @@
 
 ## Unknown
 
+* 【2024-11-27】[futurice / ios-good-practices](https://github.com/futurice/ios-good-practices) - Good ideas for iOS development, by Futurice developers.
 * 【2024-11-24】[deepseek-ai / DeepSeek-Coder-V2](https://github.com/deepseek-ai/DeepSeek-Coder-V2) - DeepSeek-Coder-V2: Breaking the Barrier of Closed-Source Models in Code Intelligence
 * 【2024-11-23】[svcvit / Awesome-Dify-Workflow](https://github.com/svcvit/Awesome-Dify-Workflow) - 分享一些好用的 Dify DSL 工作流程，自用、学习两相宜。 Sharing some Dify workflows.
 * 【2024-11-19】[CSS-Next / css-next](https://github.com/CSS-Next/css-next) - Admin repo for meetings, charter, and action items for the CSS-Next community group, a part of the w3c.
