@@ -8,6 +8,7 @@
 
 ## All language
 
+* 【2024-12-14】[mherrmann / helium](https://github.com/mherrmann/helium) - Lighter web automation with Python
 * 【2024-12-13】[tursodatabase / limbo](https://github.com/tursodatabase/limbo) - Limbo is a work-in-progress, in-process OLTP database management system, compatible with SQLite.
 * 【2024-12-13】[electric-sql / electric](https://github.com/electric-sql/electric) - Sync little subsets of your Postgres data into local apps and services.
 * 【2024-12-12】[nexus-xyz / network-api](https://github.com/nexus-xyz/network-api) - High-performance interface for supplying compute to the Nexus network.
@@ -189,6 +190,7 @@
 
 ## Python
 
+* 【2024-12-14】[derv82 / wifite](https://github.com/derv82/wifite) - 
 * 【2024-12-13】[sparckles / Robyn](https://github.com/sparckles/Robyn) - Robyn is a Super Fast Async Python Web Framework with a Rust runtime.
 * 【2024-12-13】[quantumlib / Cirq](https://github.com/quantumlib/Cirq) - A Python framework for creating, editing, and invoking Noisy Intermediate Scale Quantum (NISQ) circuits.
 * 【2024-12-13】[pylint-dev / pylint](https://github.com/pylint-dev/pylint) - It's not just a linter that annoys you!
@@ -306,6 +308,7 @@
 
 ## Javascript
 
+* 【2024-12-14】[viarotel-org / escrcpy](https://github.com/viarotel-org/escrcpy) - 📱 Graphical Scrcpy to display and control Android, devices powered by Electron.
 * 【2024-12-13】[bluewave-labs / checkmate](https://github.com/bluewave-labs/checkmate) - Checkmate is an open-source, self-hosted tool designed to track and monitor server hardware, uptime, response times, and incidents in real-time with beautiful visualizations.
 * 【2024-12-11】[jezen / is-thirteen](https://github.com/jezen/is-thirteen) - Check if a number is equal to 13.
 * 【2024-12-05】[OpenNebula / one](https://github.com/OpenNebula/one) - The open source Cloud & Edge Computing Platform bringing real freedom to your Enterprise Cloud 🚀
@@ -408,6 +411,7 @@
 
 ## C
 
+* 【2024-12-14】[78 / xiaozhi-esp32](https://github.com/78/xiaozhi-esp32) - Build your own AI friend
 * 【2024-12-05】[mstorsjo / llvm-mingw](https://github.com/mstorsjo/llvm-mingw) - An LLVM/Clang/LLD based mingw-w64 toolchain
 * 【2024-12-05】[simple64 / simple64](https://github.com/simple64/simple64) - Accurate N64 Emulator
 * 【2024-12-05】[SSSD / sssd](https://github.com/SSSD/sssd) - A daemon to manage identity, authentication and authorization for centrally-managed systems.
