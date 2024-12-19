@@ -8,6 +8,10 @@
 
 ## All language
 
+* 【2024-12-19】[XiaoMi / ha_xiaomi_home](https://github.com/XiaoMi/ha_xiaomi_home) - Xiaomi Home Integration for Home Assistant
+* 【2024-12-19】[anoma / anoma](https://github.com/anoma/anoma) - Reference implementation of Anoma
+* 【2024-12-19】[luckjiawei / frpc-desktop](https://github.com/luckjiawei/frpc-desktop) - frp跨平台桌面客户端，可视化配置，轻松实现内网穿透！ 支持所有frp版本
+* 【2024-12-19】[seleniumbase / SeleniumBase](https://github.com/seleniumbase/SeleniumBase) - Python APIs for web automation, testing, and bypassing bot-detection.
 * 【2024-12-18】[stripe / stripe-ios](https://github.com/stripe/stripe-ios) - Stripe iOS SDK
 * 【2024-12-16】[microsoft / windows-rs](https://github.com/microsoft/windows-rs) - Rust for Windows
 * 【2024-12-16】[flame-engine / flame](https://github.com/flame-engine/flame) - A Flutter based game engine.
@@ -316,6 +320,7 @@
 
 ## Javascript
 
+* 【2024-12-19】[dbt-labs / docs.getdbt.com](https://github.com/dbt-labs/docs.getdbt.com) - The code behind docs.getdbt.com
 * 【2024-12-16】[666ghj / Weibo_PublicOpinion_AnalysisSystem](https://github.com/666ghj/Weibo_PublicOpinion_AnalysisSystem) - An excellent Weibo public opinion analysis and prediction system.
 * 【2024-12-15】[http-party / node-http-proxy](https://github.com/http-party/node-http-proxy) - A full-featured http proxy for node.js
 * 【2024-12-14】[viarotel-org / escrcpy](https://github.com/viarotel-org/escrcpy) - 📱 Graphical Scrcpy to display and control Android, devices powered by Electron.
@@ -653,6 +658,7 @@
 
 ## Unknown
 
+* 【2024-12-19】[jujumilk3 / leaked-system-prompts](https://github.com/jujumilk3/leaked-system-prompts) - Collection of leaked system prompts
 * 【2024-12-18】[run-llama / llamacloud-demo](https://github.com/run-llama/llamacloud-demo) - 
 * 【2024-12-18】[hijkzzz / Awesome-LLM-Strawberry](https://github.com/hijkzzz/Awesome-LLM-Strawberry) - A collection of LLM papers, blogs, and projects, with a focus on OpenAI o1 🍓 and reasoning techniques.
 * 【2024-12-16】[acdlite / react-fiber-architecture](https://github.com/acdlite/react-fiber-architecture) - A description of React's new core algorithm, React Fiber
