@@ -8,6 +8,7 @@
 
 ## All language
 
+* 【2024-12-24】[malmeloo / FindMy.py](https://github.com/malmeloo/FindMy.py) - 🍏 + 🎯 + 🐍 = Everything you need to query Apple's FindMy network!
 * 【2024-12-23】[bytedance / monolith](https://github.com/bytedance/monolith) - ByteDance's Recommendation System
 * 【2024-12-23】[browserbase / stagehand](https://github.com/browserbase/stagehand) - An AI web browsing framework focused on simplicity and extensibility.
 * 【2024-12-22】[apankrat / nullboard](https://github.com/apankrat/nullboard) - Nullboard is a minimalist kanban board, focused on compactness and readability.
@@ -211,6 +212,7 @@
 
 ## Python
 
+* 【2024-12-24】[AgentOps-AI / AgentStack](https://github.com/AgentOps-AI/AgentStack) - The fastest way to build robust AI agents
 * 【2024-12-23】[haosulab / ManiSkill](https://github.com/haosulab/ManiSkill) - SAPIEN Manipulation Skill Framework, a open source GPU parallelized robotics simulator and benchmark, led by Hillbot, Inc.
 * 【2024-12-23】[codelion / optillm](https://github.com/codelion/optillm) - Optimizing inference proxy for LLMs
 * 【2024-12-22】[AnswerDotAI / ModernBERT](https://github.com/AnswerDotAI/ModernBERT) - Bringing BERT into modernity via both architecture changes and scaling
@@ -399,6 +401,7 @@
 
 ## Go
 
+* 【2024-12-24】[bbernhard / signal-cli-rest-api](https://github.com/bbernhard/signal-cli-rest-api) - Dockerized Signal Messenger REST API
 * 【2024-12-20】[mailru / easyjson](https://github.com/mailru/easyjson) - Fast JSON serializer for golang.
 * 【2024-12-10】[D3Ext / Hooka](https://github.com/D3Ext/Hooka) - Shellcode loader generator with multiples features
 * 【2024-12-02】[sysadminsmedia / homebox](https://github.com/sysadminsmedia/homebox) - A continuation of HomeBox the inventory and organization system built for the Home User
@@ -505,6 +508,9 @@
 
 ## C++
 
+* 【2024-12-24】[ClassicOldSong / Apollo](https://github.com/ClassicOldSong/Apollo) - Sunshine fork
+* 【2024-12-24】[mdias / rs_asio](https://github.com/mdias/rs_asio) - ASIO for Rocksmith 2014
+* 【2024-12-24】[cifertech / nRFBox](https://github.com/cifertech/nRFBox) - All-in-One Gadget for Dominating BLE and 2.4GHz Networks
 * 【2024-12-22】[LuisaGroup / LuisaCompute](https://github.com/LuisaGroup/LuisaCompute) - High-Performance Rendering Framework on Stream Architectures
 * 【2024-12-18】[moveit / moveit](https://github.com/moveit/moveit) - 🤖 The MoveIt motion planning framework
 * 【2024-12-18】[casadi / casadi](https://github.com/casadi/casadi) - CasADi is a symbolic framework for numeric optimization implementing automatic differentiation in forward and reverse modes on sparse matrix-valued computational graphs. It supports self-contained C-code generation and interfaces state-of-the-art codes such as SUNDIALS, IPOPT etc. It can be used from C++, Python or Matlab/Octave.
@@ -563,6 +569,7 @@
 
 ## C#
 
+* 【2024-12-24】[dotnet / ClangSharp](https://github.com/dotnet/ClangSharp) - Clang bindings for .NET written in C#
 * 【2024-12-21】[getsentry / sentry-dotnet](https://github.com/getsentry/sentry-dotnet) - Sentry SDK for .NET
 * 【2024-12-18】[dotnet / docker-tools](https://github.com/dotnet/docker-tools) - This is a repo to house some common tools for our various docker repos.
 * 【2024-12-18】[Uotan-Dev / UotanToolboxNT](https://github.com/Uotan-Dev/UotanToolboxNT) - 为玩机发烧友而生的全新现代化工具箱 | A Modern Toolbox for Geeks
