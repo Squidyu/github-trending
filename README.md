@@ -666,6 +666,8 @@
 
 ## Css
 
+* 【2024-12-25】[jd-opensource / micro-app](https://github.com/jd-opensource/micro-app) - A simple, efficient and powerful micro front-end framework. 一款简约、高效、功能强大的微前端框架
+* 【2024-12-25】[CTalvio / Ultrachromic](https://github.com/CTalvio/Ultrachromic) - The final form, the true evolution of the chromic theme saga!
 * 【2024-12-18】[leptos-rs / book](https://github.com/leptos-rs/book) - The home for the Leptos book, which can be found deployed at https://book.leptos.dev
 * 【2024-12-16】[SpaceTheme / Steam](https://github.com/SpaceTheme/Steam) - SpaceTheme for Steam
 * 【2024-12-06】[privacera / paig](https://github.com/privacera/paig) - PAIG (Pronounced similar to paige or payj) is an open-source project designed to protect Generative AI (GenAI) applications by ensuring security, safety, and observability.
