@@ -8,6 +8,7 @@
 
 ## All language
 
+* 【2024-12-30】[elizaOS / eliza](https://github.com/elizaOS/eliza) - Autonomous agents for everyone
 * 【2024-12-29】[mbadolato / iTerm2-Color-Schemes](https://github.com/mbadolato/iTerm2-Color-Schemes) - Over 325 terminal color schemes/themes for iTerm/iTerm2. Includes ports to Terminal, Konsole, PuTTY, Xresources, XRDB, Remmina, Termite, XFCE, Tilda, FreeBSD VT, Terminator, Kitty, MobaXterm, LXTerminal, Microsoft's Windows Terminal, Visual Studio, Alacritty, and many more
 * 【2024-12-29】[kangfenmao / cherry-studio](https://github.com/kangfenmao/cherry-studio) - 🍒 Cherry Studio is a desktop client that supports for multiple LLM providers
 * 【2024-12-27】[anti-work / shortest](https://github.com/anti-work/shortest) - QA via natural language AI tests
@@ -170,6 +171,7 @@
 
 ## Java
 
+* 【2024-12-30】[CellularPrivacy / Android-IMSI-Catcher-Detector](https://github.com/CellularPrivacy/Android-IMSI-Catcher-Detector) - AIMSICD • Fight IMSI-Catcher, StingRay and silent SMS!
 * 【2024-12-23】[etianl / Trouser-Streak](https://github.com/etianl/Trouser-Streak) - A compilation of modules optimized for maximum grief. Featuring powerful mods & exploits for Chunk Tracing, Base Hunting, and Griefing servers! A few modules were not originally written by me, but have been modified. Check the Github for credits and updates!
 * 【2024-12-16】[opentripplanner / OpenTripPlanner](https://github.com/opentripplanner/OpenTripPlanner) - An open source multi-modal trip planner
 * 【2024-12-12】[alibaba / spring-ai-alibaba](https://github.com/alibaba/spring-ai-alibaba) - An Application Framework for Java Developers
@@ -216,6 +218,7 @@
 
 ## Python
 
+* 【2024-12-30】[jingyaogong / minimind](https://github.com/jingyaogong/minimind) - 「大模型」3小时完全从0训练26M的小参数GPT，个人显卡即可推理训练！
 * 【2024-12-28】[modelcontextprotocol / python-sdk](https://github.com/modelcontextprotocol/python-sdk) - The official Python SDK for Model Context Protocol servers and clients
 * 【2024-12-27】[freqtrade / freqtrade-strategies](https://github.com/freqtrade/freqtrade-strategies) - Free trading strategies for Freqtrade bot
 * 【2024-12-27】[lipku / LiveTalking](https://github.com/lipku/LiveTalking) - Real time interactive streaming digital human
@@ -348,6 +351,7 @@
 
 ## Javascript
 
+* 【2024-12-30】[amarullz / AnimeTV](https://github.com/amarullz/AnimeTV) - Watch Anime in Your AndroidTV
 * 【2024-12-29】[dexie / Dexie.js](https://github.com/dexie/Dexie.js) - A Minimalistic Wrapper for IndexedDB
 * 【2024-12-28】[ruby / setup-ruby](https://github.com/ruby/setup-ruby) - An action to download a prebuilt Ruby and add it to the PATH in 5 seconds
 * 【2024-12-27】[moshang-ax / lottery](https://github.com/moshang-ax/lottery) - 🎉🌟✨🎈年会抽奖程序，基于 Express + Three.js的 3D 球体抽奖程序，奖品🧧🎁，文字，图片，抽奖规则均可配置，😜抽奖人员信息Excel一键导入😍，抽奖结果Excel导出😎，给你的抽奖活动带来全新酷炫体验🚀🚀🚀
@@ -411,6 +415,8 @@
 
 ## Go
 
+* 【2024-12-30】[cadence-workflow / cadence](https://github.com/cadence-workflow/cadence) - Cadence is a distributed, scalable, durable, and highly available orchestration engine to execute asynchronous long-running business logic in a scalable and resilient way.
+* 【2024-12-30】[qdm12 / ddns-updater](https://github.com/qdm12/ddns-updater) - Container to update DNS records periodically with WebUI for many DNS providers
 * 【2024-12-29】[gin-gonic / examples](https://github.com/gin-gonic/examples) - A repository to host examples and tutorials for Gin.
 * 【2024-12-28】[cashapp / cloner](https://github.com/cashapp/cloner) - 
 * 【2024-12-24】[bbernhard / signal-cli-rest-api](https://github.com/bbernhard/signal-cli-rest-api) - Dockerized Signal Messenger REST API
@@ -463,6 +469,8 @@
 
 ## C
 
+* 【2024-12-30】[TA-Lib / ta-lib](https://github.com/TA-Lib/ta-lib) - TA-Lib (Core C Library)
+* 【2024-12-30】[skot / ESP-Miner](https://github.com/skot/ESP-Miner) - A bitcoin ASIC miner for the ESP32
 * 【2024-12-28】[rusefi / rusefi](https://github.com/rusefi/rusefi) - rusefi - GPL internal combustion engine control unit
 * 【2024-12-28】[RamonUnch / AltSnap](https://github.com/RamonUnch/AltSnap) - Maintained continuation of Stefan Sundin's AltDrag
 * 【2024-12-21】[nicbarker / clay](https://github.com/nicbarker/clay) - High performance UI layout library in C.
@@ -583,6 +591,7 @@
 
 ## C#
 
+* 【2024-12-30】[msasanmh / DNSveil](https://github.com/msasanmh/DNSveil) - A DNS Client Supporting DNSCrypt, Anonymized DNSCrypt, DoH, DoT, UDP And TCP.
 * 【2024-12-24】[dotnet / ClangSharp](https://github.com/dotnet/ClangSharp) - Clang bindings for .NET written in C#
 * 【2024-12-21】[getsentry / sentry-dotnet](https://github.com/getsentry/sentry-dotnet) - Sentry SDK for .NET
 * 【2024-12-18】[dotnet / docker-tools](https://github.com/dotnet/docker-tools) - This is a repo to house some common tools for our various docker repos.
