@@ -8,6 +8,7 @@
 
 ## All language
 
+* 【2025-01-07】[zaidmukaddam / miniperplx](https://github.com/zaidmukaddam/miniperplx) - A minimalistic AI-powered search engine that helps you find information on the internet. Powered by Vercel AI SDK! Search with models like Grok 2.0.
 * 【2025-01-05】[OpenXiangShan / XiangShan](https://github.com/OpenXiangShan/XiangShan) - Open-source high-performance RISC-V processor
 * 【2025-01-04】[louis-e / arnis](https://github.com/louis-e/arnis) - Generate any location from the real world in Minecraft Java Edition with a high level of detail.
 * 【2024-12-31】[mikage-emu / mikage-dev](https://github.com/mikage-emu/mikage-dev) - Mikage Developer Edition
@@ -482,6 +483,7 @@
 
 ## C
 
+* 【2025-01-07】[TypesettingTools / Aegisub](https://github.com/TypesettingTools/Aegisub) - Cross-platform advanced subtitle editor
 * 【2025-01-06】[s-macke / VoxelSpace](https://github.com/s-macke/VoxelSpace) - Terrain rendering algorithm in less than 20 lines of code
 * 【2025-01-06】[Waujito / youtubeUnblock](https://github.com/Waujito/youtubeUnblock) - Bypasses Deep Packet Inspection (DPI) systems that rely on SNI
 * 【2025-01-01】[bmorcelli / M5Stick-Launcher](https://github.com/bmorcelli/M5Stick-Launcher) - App launcher for M5StickC, M5StickC Plus, M5StickC Plus 2 and M5Cardputer
@@ -547,6 +549,8 @@
 
 ## C++
 
+* 【2025-01-07】[momo5502 / emulator](https://github.com/momo5502/emulator) - 🪅 Windows User Space Emulator
+* 【2025-01-07】[LibreCAD / LibreCAD](https://github.com/LibreCAD/LibreCAD) - LibreCAD is a cross-platform 2D CAD program written in C++17. It can read DXF/DWG files and can write DXF/PDF/SVG files. It supports point/line/circle/ellipse/parabola/spline primitives. The user interface is highly customizable, and has dozens of translations.
 * 【2025-01-06】[losehu / uv-k5-firmware-custom](https://github.com/losehu/uv-k5-firmware-custom) - 全功能泉盛UV-K5/K6固件 Quansheng UV-K5/K6 Firmware
 * 【2025-01-04】[Open-Cascade-SAS / OCCT](https://github.com/Open-Cascade-SAS/OCCT) - Open CASCADE Technology (OCCT) is an open-source software development platform for 3D CAD, CAM, CAE.
 * 【2025-01-01】[NVIDIA / DALI](https://github.com/NVIDIA/DALI) - A GPU-accelerated library containing highly optimized building blocks and an execution engine for data processing to accelerate deep learning training and inference applications.
@@ -611,6 +615,7 @@
 
 ## C#
 
+* 【2025-01-07】[antonioCoco / RunasCs](https://github.com/antonioCoco/RunasCs) - RunasCs - Csharp and open version of windows builtin runas.exe
 * 【2025-01-02】[NoelFB / Celeste](https://github.com/NoelFB/Celeste) - Celeste Bugs & Issue Tracker + some Source Code
 * 【2025-01-02】[neo-project / neo](https://github.com/neo-project/neo) - NEO Smart Economy
 * 【2025-01-01】[tylercamp / palcalc](https://github.com/tylercamp/palcalc) - 
@@ -715,6 +720,7 @@
 
 ## Css
 
+* 【2025-01-07】[LunaPixelStudios / Better-MC](https://github.com/LunaPixelStudios/Better-MC) - https://lunapixel.studio/discord
 * 【2025-01-04】[bchiang7 / bchiang7.github.io](https://github.com/bchiang7/bchiang7.github.io) - Third iteration of my personal website built with Jekyll
 * 【2025-01-01】[themeselection / flyonui](https://github.com/themeselection/flyonui) - 🚀 The easiest, free and open-source Tailwind CSS component library with semantic classes.
 * 【2024-12-25】[jd-opensource / micro-app](https://github.com/jd-opensource/micro-app) - A simple, efficient and powerful micro front-end framework. 一款简约、高效、功能强大的微前端框架
