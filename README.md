@@ -8,6 +8,8 @@
 
 ## All language
 
+* 【2025-01-09】[inkonchain / docs](https://github.com/inkonchain/docs) - Ink Documentation
+* 【2025-01-09】[inkonchain / node](https://github.com/inkonchain/node) - How to run an Ink Node
 * 【2025-01-08】[zigbee2mqtt / hassio-zigbee2mqtt](https://github.com/zigbee2mqtt/hassio-zigbee2mqtt) - Official Zigbee2MQTT Home Assistant add-on
 * 【2025-01-08】[rectorphp / rector](https://github.com/rectorphp/rector) - Instant Upgrades and Automated Refactoring of any PHP 5.3+ code
 * 【2025-01-07】[zaidmukaddam / miniperplx](https://github.com/zaidmukaddam/miniperplx) - A minimalistic AI-powered search engine that helps you find information on the internet. Powered by Vercel AI SDK! Search with models like Grok 2.0.
@@ -227,6 +229,7 @@
 
 ## Python
 
+* 【2025-01-09】[huggingface / picotron](https://github.com/huggingface/picotron) - Minimalistic 4D-parallelism distributed training framework for education purpose
 * 【2025-01-06】[NVIDIA / nv-ingest](https://github.com/NVIDIA/nv-ingest) - NVIDIA Ingest is an early access set of microservices for parsing hundreds of thousands of complex, messy unstructured PDFs and other enterprise documents into metadata and text to embed into retrieval systems.
 * 【2025-01-06】[sunnypilot / sunnypilot](https://github.com/sunnypilot/sunnypilot) - sunnypilot is an open source driver assistance system. sunnypilot offers the user a unique driving experience for over 290 supported car makes and models with modified behaviors of driving assist engagements. sunnypilot complies with comma.ai's safety rules as accurately as possible.
 * 【2025-01-04】[feder-cr / Jobs_Applier_AI_Agent](https://github.com/feder-cr/Jobs_Applier_AI_Agent) - Auto_Jobs_Applier_AI_Agent aims to easy job hunt process by automating the job application process. Utilizing artificial intelligence, it enables users to apply for multiple jobs in an automated and personalized way.
@@ -432,6 +435,7 @@
 
 ## Go
 
+* 【2025-01-09】[apache / answer](https://github.com/apache/answer) - A Q&A platform software for teams at any scales. Whether it's a community forum, help center, or knowledge management platform, you can always count on Apache Answer.
 * 【2025-01-02】[tnb-labs / panel](https://github.com/tnb-labs/panel) - 企业级服务器运维管理面板。简单轻量，高效运维。
 * 【2024-12-30】[cadence-workflow / cadence](https://github.com/cadence-workflow/cadence) - Cadence is a distributed, scalable, durable, and highly available orchestration engine to execute asynchronous long-running business logic in a scalable and resilient way.
 * 【2024-12-30】[qdm12 / ddns-updater](https://github.com/qdm12/ddns-updater) - Container to update DNS records periodically with WebUI for many DNS providers
@@ -487,6 +491,7 @@
 
 ## C
 
+* 【2025-01-09】[ericstoneking / 42](https://github.com/ericstoneking/42) - Simulation for spacecraft attitude control system analysis and design
 * 【2025-01-08】[zjutjh / zjut-icicles](https://github.com/zjutjh/zjut-icicles) - 浙江工业大学课程攻略共享计划
 * 【2025-01-07】[TypesettingTools / Aegisub](https://github.com/TypesettingTools/Aegisub) - Cross-platform advanced subtitle editor
 * 【2025-01-06】[s-macke / VoxelSpace](https://github.com/s-macke/VoxelSpace) - Terrain rendering algorithm in less than 20 lines of code
@@ -685,6 +690,8 @@
 
 ## Html
 
+* 【2025-01-09】[kha-white / mokuro](https://github.com/kha-white/mokuro) - Read Japanese manga inside browser with selectable text.
+* 【2025-01-09】[dhairyagothi / 100_days_100_web_project](https://github.com/dhairyagothi/100_days_100_web_project) - This repository contains 100 web projects from basic to intermediate using html css and js Please star the repo before start working on it
 * 【2025-01-04】[alufers / mitmproxy2swagger](https://github.com/alufers/mitmproxy2swagger) - Automagically reverse-engineer REST APIs via capturing traffic
 * 【2025-01-01】[gehaxelt / phuzz](https://github.com/gehaxelt/phuzz) - 
 * 【2024-12-29】[mostafa-kheibary / tehran-metro-data](https://github.com/mostafa-kheibary/tehran-metro-data) - Tehran metro station data as graph in json format
@@ -762,6 +769,7 @@
 
 ## Unknown
 
+* 【2025-01-09】[jaywcjlove / docker-tutorial](https://github.com/jaywcjlove/docker-tutorial) - 🐳 Docker入门学习笔记
 * 【2025-01-06】[jamesroutley / write-a-hash-table](https://github.com/jamesroutley/write-a-hash-table) - ✏️ Learn how to write a hash table in C
 * 【2024-12-31】[tycrek / degoogle](https://github.com/tycrek/degoogle) - A huge list of alternatives to Google products. Privacy tips, tricks, and links.
 * 【2024-12-29】[shadps4-emu / shadps4-game-compatibility](https://github.com/shadps4-emu/shadps4-game-compatibility) - Shadps4 game compatibility
