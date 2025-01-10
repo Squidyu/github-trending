@@ -491,6 +491,7 @@
 
 ## C
 
+* 【2025-01-10】[HarbourMasters / Starship](https://github.com/HarbourMasters/Starship) - SF64 PC Port
 * 【2025-01-09】[ericstoneking / 42](https://github.com/ericstoneking/42) - Simulation for spacecraft attitude control system analysis and design
 * 【2025-01-08】[zjutjh / zjut-icicles](https://github.com/zjutjh/zjut-icicles) - 浙江工业大学课程攻略共享计划
 * 【2025-01-07】[TypesettingTools / Aegisub](https://github.com/TypesettingTools/Aegisub) - Cross-platform advanced subtitle editor
@@ -690,6 +691,7 @@
 
 ## Html
 
+* 【2025-01-10】[Anjaliavv51 / Retro](https://github.com/Anjaliavv51/Retro) - Explore the vintage look!
 * 【2025-01-09】[kha-white / mokuro](https://github.com/kha-white/mokuro) - Read Japanese manga inside browser with selectable text.
 * 【2025-01-09】[dhairyagothi / 100_days_100_web_project](https://github.com/dhairyagothi/100_days_100_web_project) - This repository contains 100 web projects from basic to intermediate using html css and js Please star the repo before start working on it
 * 【2025-01-04】[alufers / mitmproxy2swagger](https://github.com/alufers/mitmproxy2swagger) - Automagically reverse-engineer REST APIs via capturing traffic
@@ -733,6 +735,7 @@
 
 ## Css
 
+* 【2025-01-10】[vinaysomawat / vinaysomawat.github.io](https://github.com/vinaysomawat/vinaysomawat.github.io) - A cutting-edge portfolio web page utilizing vanilla JavaScript.
 * 【2025-01-08】[remy / mit-license](https://github.com/remy/mit-license) - Hosted MIT License with details controlled through this repo
 * 【2025-01-07】[LunaPixelStudios / Better-MC](https://github.com/LunaPixelStudios/Better-MC) - https://lunapixel.studio/discord
 * 【2025-01-04】[bchiang7 / bchiang7.github.io](https://github.com/bchiang7/bchiang7.github.io) - Third iteration of my personal website built with Jekyll
@@ -769,6 +772,7 @@
 
 ## Unknown
 
+* 【2025-01-10】[microsoft / aitour-repo-principal-list](https://github.com/microsoft/aitour-repo-principal-list) - 
 * 【2025-01-09】[jaywcjlove / docker-tutorial](https://github.com/jaywcjlove/docker-tutorial) - 🐳 Docker入门学习笔记
 * 【2025-01-06】[jamesroutley / write-a-hash-table](https://github.com/jamesroutley/write-a-hash-table) - ✏️ Learn how to write a hash table in C
 * 【2024-12-31】[tycrek / degoogle](https://github.com/tycrek/degoogle) - A huge list of alternatives to Google products. Privacy tips, tricks, and links.
