@@ -8,6 +8,8 @@
 
 ## All language
 
+* 【2025-01-12】[Nutlope / llamacoder](https://github.com/Nutlope/llamacoder) - Open source Claude Artifacts – built with Llama 3.1 405B
+* 【2025-01-12】[quickwit-oss / quickwit](https://github.com/quickwit-oss/quickwit) - Cloud-native search engine for observability. An open-source alternative to Datadog, Elasticsearch, Loki, and Tempo.
 * 【2025-01-11】[Canner / WrenAI](https://github.com/Canner/WrenAI) - 🤖 Open-source AI Agent that empowers data-driven teams to chat with their data to generate Text-to-SQL, charts, spreadsheets, reports, and BI. 📈📊📋🧑‍💻
 * 【2025-01-09】[inkonchain / docs](https://github.com/inkonchain/docs) - Ink Documentation
 * 【2025-01-09】[inkonchain / node](https://github.com/inkonchain/node) - How to run an Ink Node
@@ -372,6 +374,8 @@
 
 ## Javascript
 
+* 【2025-01-12】[besuper / TwitchNoSub](https://github.com/besuper/TwitchNoSub) - An extension to watch sub only VOD on Twitch
+* 【2025-01-12】[thedevs-network / kutt](https://github.com/thedevs-network/kutt) - Free Modern URL Shortener.
 * 【2025-01-08】[openai / openai-realtime-console](https://github.com/openai/openai-realtime-console) - React app for inspecting, building and debugging with the Realtime API
 * 【2025-01-02】[GoogleChrome / workbox](https://github.com/GoogleChrome/workbox) - 📦 Workbox: JavaScript libraries for Progressive Web Apps
 * 【2024-12-31】[notwaldorf / emoji-translate](https://github.com/notwaldorf/emoji-translate) - 📚 Translate text to ✨emoji ✨!
@@ -565,6 +569,7 @@
 
 ## C++
 
+* 【2025-01-12】[Livox-SDK / Livox-SDK2](https://github.com/Livox-SDK/Livox-SDK2) - Drivers for receiving LiDAR data and controlling lidar, support Lidar HAP and Mid-360.
 * 【2025-01-08】[srsran / srsRAN_Project](https://github.com/srsran/srsRAN_Project) - Open source O-RAN 5G CU/DU solution from Software Radio Systems (SRS) https://docs.srsran.com/projects/project
 * 【2025-01-07】[momo5502 / emulator](https://github.com/momo5502/emulator) - 🪅 Windows User Space Emulator
 * 【2025-01-07】[LibreCAD / LibreCAD](https://github.com/LibreCAD/LibreCAD) - LibreCAD is a cross-platform 2D CAD program written in C++17. It can read DXF/DWG files and can write DXF/PDF/SVG files. It supports point/line/circle/ellipse/parabola/spline primitives. The user interface is highly customizable, and has dozens of translations.
@@ -777,6 +782,7 @@
 
 ## Unknown
 
+* 【2025-01-12】[openebs / openebs](https://github.com/openebs/openebs) - Most popular & widely deployed Open Source Container Native Storage platform for Stateful Persistent Applications on Kubernetes.
 * 【2025-01-10】[microsoft / aitour-repo-principal-list](https://github.com/microsoft/aitour-repo-principal-list) - 
 * 【2025-01-09】[jaywcjlove / docker-tutorial](https://github.com/jaywcjlove/docker-tutorial) - 🐳 Docker入门学习笔记
 * 【2025-01-06】[jamesroutley / write-a-hash-table](https://github.com/jamesroutley/write-a-hash-table) - ✏️ Learn how to write a hash table in C
