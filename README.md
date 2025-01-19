@@ -8,6 +8,8 @@
 
 ## All language
 
+* 【2025-01-19】[unionlabs / union](https://github.com/unionlabs/union) - The trust-minimized, zero-knowledge bridging protocol, designed for censorship resistance, extremely high security, and usage in decentralized finance.
+* 【2025-01-19】[linuxserver / docker-webtop](https://github.com/linuxserver/docker-webtop) - Ubuntu, Alpine, Arch, and Fedora based Webtop images, Linux in a web browser supporting popular desktop environments.
 * 【2025-01-17】[pixelfed / pixelfed](https://github.com/pixelfed/pixelfed) - Photo Sharing. For Everyone.
 * 【2025-01-16】[spree / spree](https://github.com/spree/spree) - An open source eCommerce platform giving you full control and customizability. Modular and API-first. Multi-vendor, multi-tenant, multi-store, multi-currency, multi-language. Built using Ruby on Rails. Developed by @vendo-dev
 * 【2025-01-14】[JoshuaC215 / agent-service-toolkit](https://github.com/JoshuaC215/agent-service-toolkit) - Full toolkit for running an AI agent service built with LangGraph, FastAPI and Streamlit
@@ -240,6 +242,9 @@
 
 ## Python
 
+* 【2025-01-19】[databrickslabs / dqx](https://github.com/databrickslabs/dqx) - Databricks framework to validate Data Quality of pySpark DataFrames
+* 【2025-01-19】[AutoGPTQ / AutoGPTQ](https://github.com/AutoGPTQ/AutoGPTQ) - An easy-to-use LLMs quantization package with user-friendly apis, based on GPTQ algorithm.
+* 【2025-01-19】[ArchipelagoMW / Archipelago](https://github.com/ArchipelagoMW/Archipelago) - Archipelago Multi-Game Randomizer and Server
 * 【2025-01-17】[AmberSahdev / Open-Interface](https://github.com/AmberSahdev/Open-Interface) - Control Any Computer Using LLMs.
 * 【2025-01-17】[instructor-ai / instructor](https://github.com/instructor-ai/instructor) - structured outputs for llms
 * 【2025-01-17】[qhjqhj00 / MemoRAG](https://github.com/qhjqhj00/MemoRAG) - Empowering RAG with a memory-based data interface for all-purpose applications!
@@ -391,6 +396,7 @@
 
 ## Javascript
 
+* 【2025-01-19】[tengbao / vanta](https://github.com/tengbao/vanta) - Animated 3D backgrounds for your website
 * 【2025-01-17】[pixelfed / pixelfed-rn](https://github.com/pixelfed/pixelfed-rn) - Pixelfed mobile app
 * 【2025-01-15】[i-am-shodan / USBArmyKnife](https://github.com/i-am-shodan/USBArmyKnife) - USB Army Knife – the ultimate close access tool for penetration testers and red teamers.
 * 【2025-01-12】[besuper / TwitchNoSub](https://github.com/besuper/TwitchNoSub) - An extension to watch sub only VOD on Twitch
@@ -727,6 +733,7 @@
 
 ## Html
 
+* 【2025-01-19】[platzi / git-github](https://github.com/platzi/git-github) - Repositorio del Curso de Git y GitHub
 * 【2025-01-17】[Born2Root / Fast-Font](https://github.com/Born2Root/Fast-Font) - This font provides faster reading through facilitating the reading process by guiding the eyes through text with artificial fixation points.
 * 【2025-01-15】[IBM / data-prep-kit](https://github.com/IBM/data-prep-kit) - Open source project for data preparation of LLM application builders
 * 【2025-01-13】[PaulJerimy / SecCertRoadmapHTML](https://github.com/PaulJerimy/SecCertRoadmapHTML) - Security Certification Roadmap HTML5/CSS3 version
