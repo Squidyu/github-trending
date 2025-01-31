@@ -8,6 +8,9 @@
 
 ## All language
 
+* 【2025-01-31】[block / goose](https://github.com/block/goose) - an open-source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM
+* 【2025-01-31】[n4ze3m / page-assist](https://github.com/n4ze3m/page-assist) - Use your locally running AI models to assist you in your web browsing
+* 【2025-01-31】[aws-samples / amazon-bedrock-samples](https://github.com/aws-samples/amazon-bedrock-samples) - This repository contains examples for customers to get started using the Amazon Bedrock Service. This contains examples for all available foundational models
 * 【2025-01-30】[QwenLM / Qwen2.5-VL](https://github.com/QwenLM/Qwen2.5-VL) - Qwen2.5-VL is the multimodal large language model series developed by Qwen team, Alibaba Cloud.
 * 【2025-01-30】[deepseek-ai / ESFT](https://github.com/deepseek-ai/ESFT) - Expert Specialized Fine-Tuning
 * 【2025-01-29】[deepseek-ai / Janus](https://github.com/deepseek-ai/Janus) - Janus-Series: Unified Multimodal Understanding and Generation Models
@@ -263,6 +266,7 @@
 
 ## Python
 
+* 【2025-01-31】[aws-samples / bedrock-access-gateway](https://github.com/aws-samples/bedrock-access-gateway) - OpenAI-Compatible RESTful APIs for Amazon Bedrock
 * 【2025-01-29】[fylein / fyle-interview-intern-backend](https://github.com/fylein/fyle-interview-intern-backend) - 
 * 【2025-01-26】[THUDM / CogAgent](https://github.com/THUDM/CogAgent) - An open-sourced end-to-end VLM-based GUI Agent
 * 【2025-01-26】[kyutai-labs / moshi](https://github.com/kyutai-labs/moshi) - 
@@ -501,6 +505,7 @@
 
 ## Go
 
+* 【2025-01-31】[centrifugal / centrifugo](https://github.com/centrifugal/centrifugo) - Scalable real-time messaging server in a language-agnostic way. Self-hosted alternative to Pubnub, Pusher, Ably. Set up once and forever.
 * 【2025-01-30】[ekristen / aws-nuke](https://github.com/ekristen/aws-nuke) - Remove all the resources from an AWS account
 * 【2025-01-28】[nevalang / neva](https://github.com/nevalang/neva) - 🌊 Next-generation programming language that solves programmers' problems
 * 【2025-01-28】[garethgeorge / backrest](https://github.com/garethgeorge/backrest) - Backrest is a web UI and orchestrator for restic backup.
@@ -568,6 +573,7 @@
 
 ## C
 
+* 【2025-01-31】[pebble-dev / RebbleOS](https://github.com/pebble-dev/RebbleOS) - open source operating system for low-power smartwatches
 * 【2025-01-27】[da-luce / astroterm](https://github.com/da-luce/astroterm) - A planetarium for your terminal! Explore stars, planets, constellations, and more, all rendered right in the command line—no telescope required. ✨🪐
 * 【2025-01-26】[RealNeGate / Cuik](https://github.com/RealNeGate/Cuik) - A Modern C11 compiler (STILL EARLY)
 * 【2025-01-26】[RMerl / asuswrt-merlin.ng](https://github.com/RMerl/asuswrt-merlin.ng) - Third party firmware for Asus routers (newer codebase)
