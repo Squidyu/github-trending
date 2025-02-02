@@ -8,6 +8,8 @@
 
 ## All language
 
+* 【2025-02-02】[oumi-ai / oumi](https://github.com/oumi-ai/oumi) - Everything you need to build state-of-the-art foundation models, end-to-end.
+* 【2025-02-02】[containers / ramalama](https://github.com/containers/ramalama) - The goal of RamaLama is to make working with AI boring.
 * 【2025-02-01】[jef / streetmerchant](https://github.com/jef/streetmerchant) - 🤖 The world's easiest, most powerful stock checker
 * 【2025-02-01】[google / meridian](https://github.com/google/meridian) - Meridian is an MMM framework that enables advertisers to set up and run their own in-house models.
 * 【2025-01-31】[block / goose](https://github.com/block/goose) - an open-source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM
@@ -430,6 +432,7 @@
 
 ## Javascript
 
+* 【2025-02-02】[shipshapecode / shepherd](https://github.com/shipshapecode/shepherd) - Guide your users through a tour of your app
 * 【2025-01-30】[DeepLifeStudio / DeepSeekAI](https://github.com/DeepLifeStudio/DeepSeekAI) - Browser extension for invoking the DeepSeek AI large model.
 * 【2025-01-28】[IQEngine / WebFFT](https://github.com/IQEngine/WebFFT) - The Fastest Fourier Transform on the Web!
 * 【2025-01-28】[bosichong / PrimarySchoolMathematics](https://github.com/bosichong/PrimarySchoolMathematics) - 孩子上小学一年级了，加减乘除的口算就要开始练习了，估计老师肯定会让家长出题，所以提前准备一下，利用Python开发了一套自动生成小学生口算题的小应用。而且今天是程序员节，撸200行代码庆祝一下。：）
@@ -657,6 +660,7 @@
 
 ## C++
 
+* 【2025-02-02】[KhronosGroup / Vulkan-ValidationLayers](https://github.com/KhronosGroup/Vulkan-ValidationLayers) - Vulkan Validation Layers (VVL)
 * 【2025-01-28】[cdozdil / OptiScaler](https://github.com/cdozdil/OptiScaler) - OptiScaler is middleware that enables various upscaling technologies in DLSS2-only games. It allows non-Nvidia users to use upscaling by applying DLSS2 inputs to XeSS, FSR2, or FSR3.
 * 【2025-01-23】[moudey / Shell](https://github.com/moudey/Shell) - Powerful context menu manager for Windows File Explorer
 * 【2025-01-21】[TDesktop-x64 / tdesktop](https://github.com/TDesktop-x64/tdesktop) - 64Gram (unofficial Telegram Desktop)
@@ -801,6 +805,7 @@
 
 ## Html
 
+* 【2025-02-02】[uswds / uswds-site](https://github.com/uswds/uswds-site) - USWDS website and documentation
 * 【2025-02-01】[jflaherty / ptrtut13](https://github.com/jflaherty/ptrtut13) - A TUTORIAL ON POINTERS AND ARRAYS IN C
 * 【2025-01-29】[nginx / documentation](https://github.com/nginx/documentation) - Public source for docs.nginx.com
 * 【2025-01-27】[hanwenguo / hugo-theme-nostyleplease](https://github.com/hanwenguo/hugo-theme-nostyleplease) - a (nearly) no-CSS, fast, minimalist Hugo theme ported from riggraz/no-style-please.
