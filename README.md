@@ -8,6 +8,9 @@
 
 ## All language
 
+* 【2025-02-17】[microsoft / OmniParser](https://github.com/microsoft/OmniParser) - A simple screen parsing tool towards pure vision based GUI agent
+* 【2025-02-17】[cordx56 / rustowl](https://github.com/cordx56/rustowl) - Visualize Ownership and Lifetimes in Rust
+* 【2025-02-17】[mongodb-developer / GenAI-Showcase](https://github.com/mongodb-developer/GenAI-Showcase) - GenAI Cookbook
 * 【2025-02-16】[souzatharsis / podcastfy](https://github.com/souzatharsis/podcastfy) - An Open Source Python alternative to NotebookLM's podcast feature: Transforming Multimodal Content into Captivating Multilingual Audio Conversations with GenAI
 * 【2025-02-15】[zaidmukaddam / scira](https://github.com/zaidmukaddam/scira) - Scira (Formerly MiniPerplx) is a minimalistic AI-powered search engine that helps you find information on the internet. Powered by Vercel AI SDK! Search with models like Grok 2.0.
 * 【2025-02-14】[RexanWONG / text-behind-image](https://github.com/RexanWONG/text-behind-image) - https://textbehindimage.rexanwong.xyz - create text behind image designs easily
@@ -289,6 +292,7 @@
 
 ## Python
 
+* 【2025-02-17】[av / harbor](https://github.com/av/harbor) - Effortlessly run LLM backends, APIs, frontends, and services with one command.
 * 【2025-02-15】[dlt-hub / dlt](https://github.com/dlt-hub/dlt) - data load tool (dlt) is an open source Python library that makes data loading easy 🛠️
 * 【2025-02-14】[sinaptik-ai / pandas-ai](https://github.com/sinaptik-ai/pandas-ai) - Chat with your database or your datalake (SQL, CSV, parquet). PandasAI makes data analysis conversational using LLMs and RAG.
 * 【2025-02-14】[fpgmaas / cookiecutter-uv](https://github.com/fpgmaas/cookiecutter-uv) - A modern cookiecutter template for Python projects that use uv for dependency management
@@ -465,6 +469,7 @@
 
 ## Javascript
 
+* 【2025-02-17】[enatega / food-delivery-multivendor](https://github.com/enatega/food-delivery-multivendor) - Enatega is a fully realized and customizable food delivery application that can be used to set up your own order/delivery management system. For more information, visit the Enatega product page: 🚀🛒📦🌐
 * 【2025-02-11】[ftde0 / yt2009](https://github.com/ftde0/yt2009) - 2009 youtube frontend.
 * 【2025-02-05】[Lumon-Industries / Macrodata-Refinement](https://github.com/Lumon-Industries/Macrodata-Refinement) - Marcrodata Refinement
 * 【2025-02-02】[shipshapecode / shepherd](https://github.com/shipshapecode/shepherd) - Guide your users through a tour of your app
@@ -703,6 +708,7 @@
 
 ## C++
 
+* 【2025-02-17】[ggml-org / llama.cpp](https://github.com/ggml-org/llama.cpp) - LLM inference in C/C++
 * 【2025-02-12】[ripose-jp / Memento](https://github.com/ripose-jp/Memento) - An mpv-based video player for studying Japanese
 * 【2025-02-12】[qpdf / qpdf](https://github.com/qpdf/qpdf) - qpdf: A content-preserving PDF document transformer
 * 【2025-02-09】[mlc-ai / xgrammar](https://github.com/mlc-ai/xgrammar) - Efficient, Flexible and Portable Structured Generation
@@ -784,6 +790,7 @@
 
 ## C#
 
+* 【2025-02-17】[2394425147 / astrodx](https://github.com/2394425147/astrodx) - 
 * 【2025-02-15】[slskd / slskd](https://github.com/slskd/slskd) - A modern client-server application for the Soulseek file sharing network.
 * 【2025-02-12】[Oliveriver / 5d-diplomacy-with-multiverse-time-travel](https://github.com/Oliveriver/5d-diplomacy-with-multiverse-time-travel) - 5D Diplomacy With Multiverse Time Travel
 * 【2025-02-11】[w4po / ExplorerTabUtility](https://github.com/w4po/ExplorerTabUtility) - 🚀 Supercharge Windows 11's File Explorer: Auto-convert windows to tabs, duplicate tabs, reopen closed ones, and more!
@@ -860,6 +867,7 @@
 
 ## Html
 
+* 【2025-02-17】[usds / website](https://github.com/usds/website) - 
 * 【2025-02-16】[mlfoundations / evalchemy](https://github.com/mlfoundations/evalchemy) - Automatic Evals for LLMs
 * 【2025-02-16】[lm-rebooter / NuggetsBooklet](https://github.com/lm-rebooter/NuggetsBooklet) - 掘金小册
 * 【2025-02-14】[microsoft / markitdown](https://github.com/microsoft/markitdown) - Python tool for converting files and office documents to Markdown.
