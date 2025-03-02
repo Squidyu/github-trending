@@ -309,6 +309,7 @@
 
 ## Python
 
+* 【2025-03-02】[LazoCoder / Pokemon-Terminal](https://github.com/LazoCoder/Pokemon-Terminal) - Pokemon terminal themes.
 * 【2025-03-01】[HKUDS / LightRAG](https://github.com/HKUDS/LightRAG) - "LightRAG: Simple and Fast Retrieval-Augmented Generation"
 * 【2025-02-26】[fla-org / flash-linear-attention](https://github.com/fla-org/flash-linear-attention) - 🚀 Efficient implementations of state-of-the-art linear attention models in Torch and Triton
 * 【2025-02-26】[Upsonic / Upsonic](https://github.com/Upsonic/Upsonic) - Most Reliable AI Agent Framework
@@ -495,6 +496,7 @@
 
 ## Javascript
 
+* 【2025-03-02】[klaudiosinani / hyper-pokemon](https://github.com/klaudiosinani/hyper-pokemon) - Tailor-made Pokémon themes for your Hyper terminal
 * 【2025-02-27】[cyb3rfox / Aurora-Incident-Response](https://github.com/cyb3rfox/Aurora-Incident-Response) - Incident Response Documentation made easy. Developed by Incident Responders for Incident Responders
 * 【2025-02-27】[LimeSurvey / LimeSurvey](https://github.com/LimeSurvey/LimeSurvey) - 🔥 LimeSurvey – A powerful, open-source survey platform. A free alternative to SurveyMonkey, Typeform, Qualtrics, and Google Forms, making it simple to create online surveys and forms with unmatched flexibility.
 * 【2025-02-26】[pollinations / pollinations](https://github.com/pollinations/pollinations) - Free Open-Source Image and Text Generation
