@@ -244,6 +244,7 @@
 
 ## Java
 
+* 【2025-03-03】[guardianproject / orbot-android](https://github.com/guardianproject/orbot-android) - The Github home of Orbot: Tor on Android (Also available on gitlab!)
 * 【2025-03-01】[noties / Markwon](https://github.com/noties/Markwon) - Android markdown library (no WebView)
 * 【2025-02-27】[TyCoding / langchat](https://github.com/TyCoding/langchat) - LangChat: Java LLMs/AI Project, Supports Multi AI Providers( Gitee AI/ 智谱清言 / 阿里通义 / 百度千帆 / DeepSeek / 抖音豆包 / 零一万物 / 讯飞星火 / OpenAI / Gemini / Ollama / Azure / Claude 等大模型), Java生态下AI大模型产品解决方案，快速构建企业级AI知识库、AI机器人应用
 * 【2025-02-20】[dependency-check / DependencyCheck](https://github.com/dependency-check/DependencyCheck) - OWASP dependency-check is a software composition analysis utility that detects publicly disclosed vulnerabilities in application dependencies.
@@ -309,6 +310,9 @@
 
 ## Python
 
+* 【2025-03-03】[baihengaead / wifi-crack-tool](https://github.com/baihengaead/wifi-crack-tool) - WiFi密码暴力破解工具-图形界面，支持WPA/WPA2/WPA3、多开并发、自动破解、自定义密码本、自动生成密码字典
+* 【2025-03-03】[casualsnek / waydroid_script](https://github.com/casualsnek/waydroid_script) - Python Script to add OpenGapps, Magisk, libhoudini translation library and libndk translation library to waydroid !
+* 【2025-03-03】[salesforce / Merlion](https://github.com/salesforce/Merlion) - Merlion: A Machine Learning Framework for Time Series Intelligence
 * 【2025-03-02】[LazoCoder / Pokemon-Terminal](https://github.com/LazoCoder/Pokemon-Terminal) - Pokemon terminal themes.
 * 【2025-03-01】[HKUDS / LightRAG](https://github.com/HKUDS/LightRAG) - "LightRAG: Simple and Fast Retrieval-Augmented Generation"
 * 【2025-02-26】[fla-org / flash-linear-attention](https://github.com/fla-org/flash-linear-attention) - 🚀 Efficient implementations of state-of-the-art linear attention models in Torch and Triton
@@ -496,6 +500,7 @@
 
 ## Javascript
 
+* 【2025-03-03】[lyfe00011 / levanter](https://github.com/lyfe00011/levanter) - 
 * 【2025-03-02】[klaudiosinani / hyper-pokemon](https://github.com/klaudiosinani/hyper-pokemon) - Tailor-made Pokémon themes for your Hyper terminal
 * 【2025-02-27】[cyb3rfox / Aurora-Incident-Response](https://github.com/cyb3rfox/Aurora-Incident-Response) - Incident Response Documentation made easy. Developed by Incident Responders for Incident Responders
 * 【2025-02-27】[LimeSurvey / LimeSurvey](https://github.com/LimeSurvey/LimeSurvey) - 🔥 LimeSurvey – A powerful, open-source survey platform. A free alternative to SurveyMonkey, Typeform, Qualtrics, and Google Forms, making it simple to create online surveys and forms with unmatched flexibility.
@@ -586,6 +591,9 @@
 
 ## Go
 
+* 【2025-03-03】[DeepSourceCorp / globstar](https://github.com/DeepSourceCorp/globstar) - Globstar is a fast, feature-rich, and open-source static analysis toolkit for writing and running code checkers. Based on tree-sitter.
+* 【2025-03-03】[gagliardetto / solana-go](https://github.com/gagliardetto/solana-go) - Go SDK library and RPC client for the Solana Blockchain
+* 【2025-03-03】[langgenius / dify-plugin-daemon](https://github.com/langgenius/dify-plugin-daemon) - 
 * 【2025-02-25】[AvaProtocol / EigenLayer-AVS](https://github.com/AvaProtocol/EigenLayer-AVS) - AvaProtocol Ethereum Automation Build on EigenLayer
 * 【2025-02-25】[googleapis / genai-toolbox](https://github.com/googleapis/genai-toolbox) - Gen AI Toolbox for Databases is an open source server that makes it easier to build Gen AI tools for interacting with databases.
 * 【2025-02-24】[uber / kraken](https://github.com/uber/kraken) - P2P Docker registry capable of distributing TBs of data in seconds
@@ -834,6 +842,7 @@
 
 ## C#
 
+* 【2025-03-03】[DeltaV-Station / Delta-v](https://github.com/DeltaV-Station/Delta-v) - A fork of Space Station 14, embracing a mixture of classic SS13 chaos and experimentation only possible with the new engine
 * 【2025-02-27】[Unity-Technologies / ProjectAuditor](https://github.com/Unity-Technologies/ProjectAuditor) - Project Auditor is an experimental static analysis tool for Unity Projects.
 * 【2025-02-26】[microsoft / ai-dev-gallery](https://github.com/microsoft/ai-dev-gallery) - An open-source project for Windows developers to learn how to add AI with local models and APIs to Windows apps.
 * 【2025-02-23】[alexhiggins732 / IdentityServer8](https://github.com/alexhiggins732/IdentityServer8) - DotNet 8, Identity, OpenID Connect and OAuth 2.0 Framework for ASP.NET Core Identity Server 8
@@ -982,6 +991,7 @@
 
 ## Css
 
+* 【2025-03-03】[cayxc / Mdmdt](https://github.com/cayxc/Mdmdt) - Typora极简文档主题Mdmdt，包含亮色和暗色两种主题，是深度定制的个性化Typora主题；Typora minimalist document theme Mdmdt. Featuring both light and dark themes, it is a deeply customized personalized Typora theme.
 * 【2025-03-01】[dtinth / vxchrome](https://github.com/dtinth/vxchrome) - A Chrome extension that listens to my voice, converts to text, and copies it to the clipboard.
 * 【2025-03-01】[KoriIku / luxirty-search](https://github.com/KoriIku/luxirty-search) - 一个搜索引擎，基于 Google，屏蔽内容农场，无广告，无跟踪，干净，简洁，快。
 * 【2025-02-28】[JaKooLit / Hyprland-Dots](https://github.com/JaKooLit/Hyprland-Dots) - Hyprland configuration files or dotfiles - This repo is used as main repo for all my Distro-Hyprland Install Scripts. See the readme
@@ -1030,6 +1040,7 @@
 
 ## Unknown
 
+* 【2025-03-03】[langgenius / dify-plugins](https://github.com/langgenius/dify-plugins) - All Dify Plugins listed in Dify Marketplace, plus illustrated plugin examples.
 * 【2025-03-01】[punkpeye / awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) - A collection of MCP servers.
 * 【2025-03-01】[amusi / CVPR2025-Papers-with-Code](https://github.com/amusi/CVPR2025-Papers-with-Code) - CVPR 2025 论文和开源项目合集
 * 【2025-02-28】[microsoft / vscode-copilot-release](https://github.com/microsoft/vscode-copilot-release) - Feedback on GitHub Copilot Chat UX in Visual Studio Code.
