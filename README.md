@@ -8,6 +8,8 @@
 
 ## All language
 
+* 【2025-05-07】[awslabs / agent-squad](https://github.com/awslabs/agent-squad) - Flexible and powerful framework for managing multiple AI agents and handling complex conversations
+* 【2025-05-07】[huggingface / agents-course](https://github.com/huggingface/agents-course) - This repository contains the Hugging Face Agents Course.
 * 【2025-05-04】[jj-vcs / jj](https://github.com/jj-vcs/jj) - A Git-compatible VCS that is both simple and powerful
 * 【2025-05-04】[Mail-0 / Zero](https://github.com/Mail-0/Zero) - Experience email the way you want with 0 – the first open source email app that puts your privacy and safety first. Join the discord: https://discord.gg/0email
 * 【2025-05-03】[MODSetter / SurfSense](https://github.com/MODSetter/SurfSense) - Open Source Alternative to NotebookLM / Perplexity / Glean, connected to external sources such as search engines (Tavily, Linkup), Slack, Linear, Notion, YouTube, GitHub and more.
@@ -415,6 +417,11 @@
 
 ## Python
 
+* 【2025-05-07】[Capsize-Games / airunner](https://github.com/Capsize-Games/airunner) - Privacy focused, local-first, multi-modal inference engine and agent platform for running LLMs, image generation, speech processing, and tool-based automation
+* 【2025-05-07】[HarrisonKramer / optiland](https://github.com/HarrisonKramer/optiland) - Comprehensive optical design, optimization, and analysis in Python, including GPU-accelerated and differentiable ray tracing via PyTorch.
+* 【2025-05-07】[ag2ai / ag2](https://github.com/ag2ai/ag2) - AG2 (formerly AutoGen): The Open-Source AgentOS. Join us at: https://discord.gg/pAbnFJrkgZ
+* 【2025-05-07】[snailyp / gemini-balance](https://github.com/snailyp/gemini-balance) - gemini轮询代理服务
+* 【2025-05-07】[netbox-community / devicetype-library](https://github.com/netbox-community/devicetype-library) - A collection of community-sourced DeviceType definitions for import to NetBox
 * 【2025-05-06】[trycua / cua](https://github.com/trycua/cua) - c/ua is the Docker Container for Computer-Use AI Agents.
 * 【2025-05-04】[DachunKai / Ev-DeblurVSR](https://github.com/DachunKai/Ev-DeblurVSR) - [AAAI 2025] Event-Enhanced Blurry Video Super-Resolution
 * 【2025-05-01】[vllm-project / vllm-ascend](https://github.com/vllm-project/vllm-ascend) - Community maintained hardware plugin for vLLM on Ascend
@@ -668,6 +675,7 @@
 
 ## Javascript
 
+* 【2025-05-07】[igrigorik / videospeed](https://github.com/igrigorik/videospeed) - HTML5 video speed controller (for Google Chrome)
 * 【2025-05-06】[serverless-dns / serverless-dns](https://github.com/serverless-dns/serverless-dns) - The RethinkDNS resolver that deploys to Cloudflare Workers, Deno Deploy, Fastly, and Fly.io
 * 【2025-05-06】[git-tips / tips](https://github.com/git-tips/tips) - Most commonly used git tips and tricks.
 * 【2025-05-05】[ilyhalight / voice-over-translation](https://github.com/ilyhalight/voice-over-translation) - Небольшое расширение, которое добавляет закадровый перевод видео из YaBrowser в другие браузеры
@@ -791,6 +799,7 @@
 
 ## Go
 
+* 【2025-05-07】[gabe565 / ascii-movie](https://github.com/gabe565/ascii-movie) - Star Wars SSH + Telnet server written in Go.
 * 【2025-05-05】[googleapis / go-genai](https://github.com/googleapis/go-genai) - Google Gen AI Go SDK provides an interface for developers to integrate Google's generative models into their Go applications.
 * 【2025-05-05】[blacktop / ipsw](https://github.com/blacktop/ipsw) - iOS/macOS Research Swiss Army Knife
 * 【2025-05-02】[ibnaleem / gosearch](https://github.com/ibnaleem/gosearch) - 🔍 Search anyone's digital footprint across 300+ websites
@@ -1014,6 +1023,7 @@
 
 ## C++
 
+* 【2025-05-07】[conservation-laws / ryujin](https://github.com/conservation-laws/ryujin) - High-performance high-order finite element solver for hyperbolic conservation equations
 * 【2025-05-04】[ikawrakow / ik_llama.cpp](https://github.com/ikawrakow/ik_llama.cpp) - llama.cpp fork with additional SOTA quants and improved performance
 * 【2025-05-03】[jeremy-rifkin / cpptrace](https://github.com/jeremy-rifkin/cpptrace) - Simple, portable, and self-contained stacktrace library for C++11 and newer
 * 【2025-05-02】[ramensoftware / windhawk](https://github.com/ramensoftware/windhawk) - The customization marketplace for Windows programs: https://windhawk.net/
@@ -1231,6 +1241,7 @@
 
 ## Html
 
+* 【2025-05-07】[Blobby-Boi / ExtPrint3r](https://github.com/Blobby-Boi/ExtPrint3r) - An exploit that allows ChromeOS users to kill extensions by printing iframes. The successor to ExtHang3r.
 * 【2025-05-03】[EltonChou / TwitterMediaHarvest](https://github.com/EltonChou/TwitterMediaHarvest) - Download twitter media with only one-click.
 * 【2025-05-01】[dendianugerah / reubah](https://github.com/dendianugerah/reubah) - a web-based tool for processing images and converting documents with a simple interface
 * 【2025-04-29】[EmptyLibra / Configure-Xray-with-VLESS-Reality-on-VPS-server](https://github.com/EmptyLibra/Configure-Xray-with-VLESS-Reality-on-VPS-server) - Подробная инструкция (как в pdf, так и в md формате) о настройке своего совбственного Xray-VPS-сервера (с протоколом VLESS XTLS-Reality через панель 3x-ui), а также настройке клиентских приложений (ПК и телефон)
