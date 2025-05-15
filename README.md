@@ -8,6 +8,7 @@
 
 ## All language
 
+* 【2025-05-15】[TapXWorld / ChinaTextbook](https://github.com/TapXWorld/ChinaTextbook) - 所有小初高、大学PDF教材。
 * 【2025-05-14】[xming521 / WeClone](https://github.com/xming521/WeClone) - 🚀从聊天记录创造数字分身的一站式解决方案💡 使用聊天记录微调大语言模型，让大模型有“那味儿”，并绑定到聊天机器人，实现自己的数字分身。 数字克隆/数字分身/数字永生/LLM/聊天机器人/LoRA
 * 【2025-05-13】[i-am-alice / 3rd-devs](https://github.com/i-am-alice/3rd-devs) - 
 * 【2025-05-13】[bytedance / UI-TARS-desktop](https://github.com/bytedance/UI-TARS-desktop) - A GUI Agent application based on UI-TARS(Vision-Language Model) that allows you to control your computer using natural language.
@@ -1276,6 +1277,7 @@
 
 ## Html
 
+* 【2025-05-15】[thewickedkarma / blackeye-im](https://github.com/thewickedkarma/blackeye-im) - This project is now discontinued. Kindly use other working alternatives.
 * 【2025-05-10】[NightProxy / Space](https://github.com/NightProxy/Space) - Space is a modern, and clean web proxy with many games, apps and features.
 * 【2025-05-07】[Blobby-Boi / ExtPrint3r](https://github.com/Blobby-Boi/ExtPrint3r) - An exploit that allows ChromeOS users to kill extensions by printing iframes. The successor to ExtHang3r.
 * 【2025-05-03】[EltonChou / TwitterMediaHarvest](https://github.com/EltonChou/TwitterMediaHarvest) - Download twitter media with only one-click.
@@ -1431,6 +1433,7 @@
 
 ## Unknown
 
+* 【2025-05-15】[stackia / best-windows-apps](https://github.com/stackia/best-windows-apps) - 推荐好用、优秀的 Windows 应用
 * 【2025-05-11】[fudan-generative-vision / OpenHumanVid](https://github.com/fudan-generative-vision/OpenHumanVid) - [CVPR 2025] A Large-Scale High-Quality Dataset for Enhancing Human-Centric Video Generation
 * 【2025-05-10】[logpai / loghub](https://github.com/logpai/loghub) - A large collection of system log datasets for AI-driven log analytics [ISSRE'23]
 * 【2025-04-30】[hhhrrrttt222111 / Ethical-Hacking-Tools](https://github.com/hhhrrrttt222111/Ethical-Hacking-Tools) - Complete Listing and Usage of Tools used for Ethical Hacking
