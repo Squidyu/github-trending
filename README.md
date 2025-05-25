@@ -850,6 +850,8 @@
 
 ## Go
 
+* 【2025-05-25】[zerodha / kite-mcp-server](https://github.com/zerodha/kite-mcp-server) - Zerodha Kite MCP server
+* 【2025-05-25】[kubetail-org / kubetail](https://github.com/kubetail-org/kubetail) - Real-time logging dashboard for Kubernetes (browser/terminal)
 * 【2025-05-24】[aaPanel / BillionMail](https://github.com/aaPanel/BillionMail) - BillionMail gives you open-source MailServer, NewsLetter, Email Marketing — fully self-hosted, dev-friendly, and free from monthly fees.
 * 【2025-05-17】[microsoft / typescript-go](https://github.com/microsoft/typescript-go) - Staging repo for development of native port of TypeScript
 * 【2025-05-16】[lejianwen / rustdesk-api](https://github.com/lejianwen/rustdesk-api) - Custom Rustdesk Api Server, include web admin ,web client, web client v2 preview and oidc login
@@ -1322,6 +1324,7 @@
 
 ## Html
 
+* 【2025-05-25】[wizarrrr / wizarr](https://github.com/wizarrrr/wizarr) - Wizarr is an advanced user invitation and management system for Jellyfin, Plex, Emby etc.
 * 【2025-05-24】[codelucas / newspaper](https://github.com/codelucas/newspaper) - newspaper3k is a news, full-text, and article metadata extraction in Python 3. Advanced docs:
 * 【2025-05-22】[nottelabs / notte](https://github.com/nottelabs/notte) - 🔥 Opensource browser using agents
 * 【2025-05-21】[JuergenFleiss / aTrain](https://github.com/JuergenFleiss/aTrain) - A GUI tool for offline transcription of speech recordings, including speaker diarization, utilizing state-of-the-art machine learning models.
