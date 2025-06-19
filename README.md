@@ -8,6 +8,7 @@
 
 ## All language
 
+* 【2025-06-19】[php / frankenphp](https://github.com/php/frankenphp) - 🧟 The modern PHP app server
 * 【2025-06-18】[menloresearch / jan](https://github.com/menloresearch/jan) - Jan is an open source alternative to ChatGPT that runs 100% offline on your computer
 * 【2025-06-18】[deepseek-ai / DeepEP](https://github.com/deepseek-ai/DeepEP) - DeepEP: an efficient expert-parallel communication library
 * 【2025-06-17】[linshenkx / prompt-optimizer](https://github.com/linshenkx/prompt-optimizer) - 一款提示词优化器，助力于编写高质量的提示词
@@ -922,6 +923,7 @@
 
 ## Go
 
+* 【2025-06-19】[github / github-mcp-server](https://github.com/github/github-mcp-server) - GitHub's official MCP Server
 * 【2025-06-18】[Musixal / Backhaul](https://github.com/Musixal/Backhaul) - Lightning-fast reverse tunneling solution for NAT traversal, optimized for handling massive concurrent connections with tcp, tcpmux, udp, udp over tcp, ws, wsmux, wss and wssmux support.
 * 【2025-06-17】[zachlatta / sshtron](https://github.com/zachlatta/sshtron) - $ ssh sshtron.zachlatta.com
 * 【2025-06-14】[cloudreve / cloudreve](https://github.com/cloudreve/cloudreve) - 🌩 Self-hosted file management and sharing system, supports multiple storage providers
@@ -1612,6 +1614,7 @@
 
 ## Unknown
 
+* 【2025-06-19】[datawhalechina / happy-llm](https://github.com/datawhalechina/happy-llm) - 📚 从零开始的大语言模型原理与实践教程
 * 【2025-06-02】[geerlingguy / mini-rack](https://github.com/geerlingguy/mini-rack) - Miniature rack builds, for portable or compact Homelabs.
 * 【2025-06-01】[punkpeye / awesome-mcp-clients](https://github.com/punkpeye/awesome-mcp-clients) - A collection of MCP clients.
 * 【2025-05-31】[AlexanderZhou01 / China-software-copyright](https://github.com/AlexanderZhou01/China-software-copyright) - Chinese software copyright application template document
