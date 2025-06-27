@@ -8,6 +8,7 @@
 
 ## All language
 
+* 【2025-06-27】[nexus-xyz / nexus-cli](https://github.com/nexus-xyz/nexus-cli) - Command line interface for supplying proofs to the Nexus network.
 * 【2025-06-25】[musistudio / claude-code-router](https://github.com/musistudio/claude-code-router) - Use Claude Code as the foundation for coding infrastructure, allowing you to decide how to interact with the model while enjoying updates from Anthropic.
 * 【2025-06-25】[Effect-TS / effect](https://github.com/Effect-TS/effect) - Build production-ready applications in TypeScript
 * 【2025-06-24】[ghostty-org / ghostty](https://github.com/ghostty-org/ghostty) - 👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration.
@@ -383,6 +384,7 @@
 
 ## Java
 
+* 【2025-06-27】[eclipse-jdtls / eclipse.jdt.ls](https://github.com/eclipse-jdtls/eclipse.jdt.ls) - Java language server
 * 【2025-06-26】[junit-team / junit-framework](https://github.com/junit-team/junit-framework) - ✅ The programmer-friendly testing framework for Java and the JVM
 * 【2025-06-25】[Winds-Studio / Leaf](https://github.com/Winds-Studio/Leaf) - A Paper fork aim to find balance between performance, vanilla and stability
 * 【2025-06-24】[mafik / echo](https://github.com/mafik/echo) - Time travelling recorder for Android.
@@ -490,6 +492,9 @@
 
 ## Python
 
+* 【2025-06-27】[LearningCircuit / local-deep-research](https://github.com/LearningCircuit/local-deep-research) - Local Deep Research is an AI-powered assistant that transforms complex questions into comprehensive, cited reports by conducting iterative analysis using any LLM across diverse knowledge sources including academic databases, scientific repositories, web content, and private document collections.
+* 【2025-06-27】[gensyn-ai / rl-swarm](https://github.com/gensyn-ai/rl-swarm) - A fully open source framework for creating RL training swarms over the internet.
+* 【2025-06-27】[ArcInstitute / state](https://github.com/ArcInstitute/state) - State is a machine learning model that predicts cellular perturbation response across diverse contexts
 * 【2025-06-26】[ROCm / TheRock](https://github.com/ROCm/TheRock) - The HIP Environment and ROCm Kit - A lightweight open source build system for HIP and ROCm
 * 【2025-06-26】[zhaochenyang20 / Awesome-ML-SYS-Tutorial](https://github.com/zhaochenyang20/Awesome-ML-SYS-Tutorial) - My learning notes/codes for ML SYS.
 * 【2025-06-25】[Epodonios / v2ray-configs](https://github.com/Epodonios/v2ray-configs) - Free vless-vmess-shadowsocks-trojan-xray-V2ray Configs Updating Every 5 minutes
@@ -796,6 +801,8 @@
 
 ## Javascript
 
+* 【2025-06-27】[upstash / context7](https://github.com/upstash/context7) - Context7 MCP Server -- Up-to-date code documentation for LLMs and AI code editors
+* 【2025-06-27】[Azgaar / Fantasy-Map-Generator](https://github.com/Azgaar/Fantasy-Map-Generator) - Web application generating interactive and highly customizable maps
 * 【2025-06-22】[franceking1 / Flash-Md-V2](https://github.com/franceking1/Flash-Md-V2) - Feel Free To Use FLASH-MD, Remember To STAR🌟 The Repo before Forking
 * 【2025-06-22】[sonnylazuardi / cursor-talk-to-figma-mcp](https://github.com/sonnylazuardi/cursor-talk-to-figma-mcp) - Cursor Talk To Figma MCP
 * 【2025-06-18】[rcourtman / Pulse](https://github.com/rcourtman/Pulse) - A responsive monitoring application for Proxmox VE that displays real-time metrics across multiple nodes
@@ -1092,6 +1099,7 @@
 
 ## C
 
+* 【2025-06-27】[rxi / microui](https://github.com/rxi/microui) - A tiny immediate-mode UI library
 * 【2025-06-18】[cosmos72 / twin](https://github.com/cosmos72/twin) - Text mode window environment. A "retro" program for embedded or remote systems, that doubles as X11 terminal and text-mode equivalent of VNC server
 * 【2025-06-17】[espressif / esp-brookesia](https://github.com/espressif/esp-brookesia) - ESP-Brookesia is a human-machine interaction development framework designed for AIoT devices.
 * 【2025-06-17】[armory3d / armortools](https://github.com/armory3d/armortools) - 3D Content Creation Tools
@@ -1581,6 +1589,8 @@
 
 ## Css
 
+* 【2025-06-27】[Wombosvideo / tw-animate-css](https://github.com/Wombosvideo/tw-animate-css) - TailwindCSS v4.0 compatible replacement for `tailwindcss-animate`
+* 【2025-06-27】[civilblur / mazanoke](https://github.com/civilblur/mazanoke) - A self-hosted local image optimizer that runs in your browser.
 * 【2025-06-21】[keploy / student-program](https://github.com/keploy/student-program) - 
 * 【2025-06-21】[selkies-project / selkies](https://github.com/selkies-project/selkies) - Open-Source Low-Latency Accelerated Linux WebRTC HTML5 Remote Desktop Streaming Platform for Self-Hosting, Containers, Kubernetes, or Cloud/HPC
 * 【2025-06-13】[google-gemini / gemini-api-quickstart](https://github.com/google-gemini/gemini-api-quickstart) - Get up and running with the Gemini API in under 5 minutes (with Python)
