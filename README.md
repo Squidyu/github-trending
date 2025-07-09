@@ -8,6 +8,7 @@
 
 ## All language
 
+* 【2025-07-09】[HandsOnLLM / Hands-On-Large-Language-Models](https://github.com/HandsOnLLM/Hands-On-Large-Language-Models) - Official code repo for the O'Reilly Book - "Hands-On Large Language Models"
 * 【2025-07-08】[humanlayer / 12-factor-agents](https://github.com/humanlayer/12-factor-agents) - What are the principles we can use to build LLM-powered software that is actually good enough to put in the hands of production customers?
 * 【2025-07-06】[rustfs / rustfs](https://github.com/rustfs/rustfs) - 🚀 High-performance distributed object storage for MinIO alternative.
 * 【2025-07-04】[btjawa / BiliTools](https://github.com/btjawa/BiliTools) - A cross-platform bilibili toolbox. 跨平台哔哩哔哩工具箱，支持下载视频、番剧等等各类资源
@@ -508,6 +509,8 @@
 
 ## Python
 
+* 【2025-07-09】[tubearchivist / tubearchivist](https://github.com/tubearchivist/tubearchivist) - Your self hosted YouTube media server
+* 【2025-07-09】[SlimeBoyOwO / LingChat](https://github.com/SlimeBoyOwO/LingChat) - GPT chat with emotional expressions.
 * 【2025-07-08】[Alibaba-NLP / WebAgent](https://github.com/Alibaba-NLP/WebAgent) - 🌐 WebAgent for Information Seeking bulit by Tongyi Lab: WebWalker & WebDancer & WebSailor https://arxiv.org/pdf/2507.02592
 * 【2025-07-08】[joeyism / linkedin_scraper](https://github.com/joeyism/linkedin_scraper) - A library that scrapes Linkedin for user data
 * 【2025-07-08】[dongshuyan / Upload_Machine](https://github.com/dongshuyan/Upload_Machine) - Upload local resources to PT trackers automatically using requests.
@@ -828,6 +831,7 @@
 
 ## Javascript
 
+* 【2025-07-09】[HackTricks-wiki / hacktricks](https://github.com/HackTricks-wiki/hacktricks) - Welcome to the page where you will find each trick/technique/whatever I have learnt in CTFs, real life apps, and reading researches and news.
 * 【2025-07-05】[nwjs / nw.js](https://github.com/nwjs/nw.js) - Call all Node.js modules directly from DOM/WebWorker and enable a new way of writing applications with all Web technologies.
 * 【2025-07-04】[ppl-ai / modelcontextprotocol](https://github.com/ppl-ai/modelcontextprotocol) - A Model Context Protocol Server connector for Perplexity API, to enable web search without leaving the MCP ecosystem.
 * 【2025-06-29】[danielmiessler / Fabric](https://github.com/danielmiessler/Fabric) - Fabric is an open-source framework for augmenting humans using AI. It provides a modular system for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.
@@ -1650,6 +1654,7 @@
 
 ## Css
 
+* 【2025-07-09】[sapthesh / Birthday](https://github.com/sapthesh/Birthday) - The Customizable Birthday Web Template is a versatile and user-friendly website template designed to celebrate birthdays in a fun and personalized way.
 * 【2025-07-08】[MicrosoftDocs / Azure-RMSDocs](https://github.com/MicrosoftDocs/Azure-RMSDocs) - Public content repo for Azure RMS content in OPS
 * 【2025-07-07】[myfreeer / cppreference2mshelp](https://github.com/myfreeer/cppreference2mshelp) - cppreference.com html archive converter to microsoft help (for Visual Studio 2012+) and chm help (for Windows)
 * 【2025-07-06】[microsoft / mvp](https://github.com/microsoft/mvp) - Microsoft MVP Program GitHub Repository
