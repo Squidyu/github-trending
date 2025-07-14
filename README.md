@@ -403,6 +403,7 @@
 
 ## Java
 
+* 【2025-07-14】[re-zero001 / LSPosed-Irena](https://github.com/re-zero001/LSPosed-Irena) - Useless LSPosed Framework Fork
 * 【2025-07-13】[GumTreeDiff / gumtree](https://github.com/GumTreeDiff/gumtree) - An awesome code differencing tool
 * 【2025-07-08】[Aefyr / SAI](https://github.com/Aefyr/SAI) - Android split APKs installer
 * 【2025-07-04】[FaceAISDK / FaceAISDK_Android](https://github.com/FaceAISDK/FaceAISDK_Android) - Android on_device 1:1 Face Recognition 、 Liveness detection and 1:N & M:N Face Search SDK 🧒 离线版设备端Android1:1人脸识别 动作活体、静默活体、近红外双目活体检测 以及1:N M:N 人脸搜索算法SDK 封装。全程可开飞行模式不用联网
@@ -517,6 +518,7 @@
 
 ## Python
 
+* 【2025-07-14】[OpenPipe / ART](https://github.com/OpenPipe/ART) - Agent Reinforcement Trainer: train multi-step agents for real-world tasks using GRPO. Give your agents on-the-job training. Reinforcement learning for Qwen2.5, Qwen3, Llama, Kimi, and more!
 * 【2025-07-13】[jax-ml / jax](https://github.com/jax-ml/jax) - Composable transformations of Python+NumPy programs: differentiate, vectorize, JIT to GPU/TPU, and more
 * 【2025-07-13】[markqvist / Reticulum](https://github.com/markqvist/Reticulum) - The cryptography-based networking stack for building unstoppable networks with LoRa, Packet Radio, WiFi and everything in between.
 * 【2025-07-12】[browser-use / macOS-use](https://github.com/browser-use/macOS-use) - Make Mac apps accessible for AI agents
@@ -847,6 +849,7 @@
 
 ## Javascript
 
+* 【2025-07-14】[Parcoil / Sparkle](https://github.com/Parcoil/Sparkle) - Ultimate Windows Optimizer
 * 【2025-07-12】[elastic / mcp-server-elasticsearch](https://github.com/elastic/mcp-server-elasticsearch) - 
 * 【2025-07-10】[zereight / gitlab-mcp](https://github.com/zereight/gitlab-mcp) - gitlab mcp
 * 【2025-07-09】[HackTricks-wiki / hacktricks](https://github.com/HackTricks-wiki/hacktricks) - Welcome to the page where you will find each trick/technique/whatever I have learnt in CTFs, real life apps, and reading researches and news.
@@ -1009,6 +1012,8 @@
 
 ## Go
 
+* 【2025-07-14】[ArvinLovegood / go-stock](https://github.com/ArvinLovegood/go-stock) - 🦄🦄🦄AI赋能股票分析：自选股行情获取，成本盈亏展示，涨跌报警推送。目前已支持A股，港股，美股，未来计划加入基金，ETF等支持。支持市场整体/个股情绪分析，K线分析等。数据全部保留在本地。支持DeepSeek，OpenAI， Ollama，LMStudio，AnythingLLM，硅基流动，火山方舟，阿里云百炼等平台或模型。
+* 【2025-07-14】[ssut / payload-dumper-go](https://github.com/ssut/payload-dumper-go) - an android OTA payload dumper written in Go
 * 【2025-07-13】[Ullaakut / cameradar](https://github.com/Ullaakut/cameradar) - Cameradar hacks its way into RTSP videosurveillance cameras
 * 【2025-07-13】[lharries / whatsapp-mcp](https://github.com/lharries/whatsapp-mcp) - WhatsApp MCP server
 * 【2025-07-12】[RezaSi / go-interview-practice](https://github.com/RezaSi/go-interview-practice) - Go Interview Practice is a series of coding challenges to help you prepare for technical interviews in Go. Solve problems, submit your solutions, and receive instant feedback with automated testing. Track your progress with per-challenge scoreboards and improve your coding skills step by step.
@@ -1446,6 +1451,7 @@
 
 ## C#
 
+* 【2025-07-14】[SakiRinn / LiveCaptions-Translator](https://github.com/SakiRinn/LiveCaptions-Translator) - Lightweight and powerful real-time audio/speech translation tool based on Windows LiveCaptions.
 * 【2025-07-08】[cschneegans / unattend-generator](https://github.com/cschneegans/unattend-generator) - .NET Core library to create highly customized autounattend.xml files
 * 【2025-07-08】[Maassoft / ColorControl](https://github.com/Maassoft/ColorControl) - Easily change NVIDIA display settings and/or control LG TV's
 * 【2025-07-07】[neelabo / NeeView](https://github.com/neelabo/NeeView) - An image viewer that allows you to browse images in folders and compressed files like a book. Powerful customization is available.
