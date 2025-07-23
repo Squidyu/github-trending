@@ -8,6 +8,8 @@
 
 ## All language
 
+* 【2025-07-23】[fujiapple852 / trippy](https://github.com/fujiapple852/trippy) - A network diagnostic tool
+* 【2025-07-23】[ankitects / anki](https://github.com/ankitects/anki) - Anki is a smart spaced repetition flashcard program
 * 【2025-07-22】[C4illin / ConvertX](https://github.com/C4illin/ConvertX) - 💾 Self-hosted online file converter. Supports 1000+ formats ⚙️
 * 【2025-07-21】[better-auth / better-auth](https://github.com/better-auth/better-auth) - The most comprehensive authentication framework for TypeScript
 * 【2025-07-21】[simstudioai / sim](https://github.com/simstudioai/sim) - Sim Studio is an open-source AI agent workflow builder. Sim Studio's interface is a lightweight, intuitive way to quickly build and deploy LLMs that connect with your favorite tools.
@@ -526,6 +528,7 @@
 
 ## Python
 
+* 【2025-07-23】[sooperset / mcp-atlassian](https://github.com/sooperset/mcp-atlassian) - MCP server for Atlassian tools (Confluence, Jira)
 * 【2025-07-22】[Yaofang-Liu / Pusa-VidGen](https://github.com/Yaofang-Liu/Pusa-VidGen) - Pusa: Thousands Timesteps Video Diffusion Model
 * 【2025-07-21】[hesreallyhim / awesome-claude-code](https://github.com/hesreallyhim/awesome-claude-code) - A curated list of awesome commands, files, and workflows for Claude Code
 * 【2025-07-21】[wasi-master / 13ft](https://github.com/wasi-master/13ft) - My own custom 12ft.io replacement
@@ -1611,6 +1614,8 @@
 
 ## Html
 
+* 【2025-07-23】[Tanq16 / ExpenseOwl](https://github.com/Tanq16/ExpenseOwl) - Extremely simple, self-hosted expense tracker with a beautiful UI.
+* 【2025-07-23】[ibm-developer-skills-network / gkpbt-css-circle](https://github.com/ibm-developer-skills-network/gkpbt-css-circle) - css-circle
 * 【2025-07-17】[zhtyyx / ioe](https://github.com/zhtyyx/ioe) - One-Stop Retail Inventory Solution
 * 【2025-07-17】[ioccc-src / winner](https://github.com/ioccc-src/winner) - Winners of the International Obfuscated C Code Contest
 * 【2025-07-13】[kagisearch / kite-public](https://github.com/kagisearch/kite-public) - Open source repository for Kite, news app by Kagi.
