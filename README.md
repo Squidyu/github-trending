@@ -8,6 +8,7 @@
 
 ## All language
 
+* 【2025-07-26】[semgrep / semgrep](https://github.com/semgrep/semgrep) - Lightweight static analysis for many languages. Find bug variants with patterns that look like source code.
 * 【2025-07-25】[langchain-ai / rag-from-scratch](https://github.com/langchain-ai/rag-from-scratch) - 
 * 【2025-07-24】[Sjj1024 / PakePlus](https://github.com/Sjj1024/PakePlus) - Turn any webpage/Vue/React and so on into desktop and mobile app under 5M with easy in few minutes. 轻松将任意网站/Vue/React等项目构建为轻量级(小于5M)多端桌面应用和手机应用仅需几分钟. https://ppofficial.netlify.app
 * 【2025-07-23】[fujiapple852 / trippy](https://github.com/fujiapple852/trippy) - A network diagnostic tool
@@ -531,6 +532,7 @@
 
 ## Python
 
+* 【2025-07-26】[roboflow / rf-detr](https://github.com/roboflow/rf-detr) - RF-DETR is a real-time object detection model architecture developed by Roboflow, SOTA on COCO and designed for fine-tuning.
 * 【2025-07-25】[SkyworkAI / SkyReels-V2](https://github.com/SkyworkAI/SkyReels-V2) - SkyReels-V2: Infinite-length Film Generative model
 * 【2025-07-25】[QwenLM / Qwen3-Coder](https://github.com/QwenLM/Qwen3-Coder) - Qwen3-Coder is the code version of Qwen3, the large language model series developed by Qwen team, Alibaba Cloud.
 * 【2025-07-23】[sooperset / mcp-atlassian](https://github.com/sooperset/mcp-atlassian) - MCP server for Atlassian tools (Confluence, Jira)
@@ -1039,6 +1041,7 @@
 
 ## Go
 
+* 【2025-07-26】[containers / kubernetes-mcp-server](https://github.com/containers/kubernetes-mcp-server) - Model Context Protocol (MCP) server for Kubernetes and OpenShift
 * 【2025-07-24】[tnborg / panel](https://github.com/tnborg/panel) - 耗子面板 (RatPanel) - 新一代服务器运维管理面板。简单轻量，高效运维。
 * 【2025-07-22】[donetick / donetick](https://github.com/donetick/donetick) - Donetick an open-source, user-friendly app for managing tasks and chores, featuring customizable options to help you and others stay organized
 * 【2025-07-21】[mudler / LocalRecall](https://github.com/mudler/LocalRecall) - 🧠 100% Local Memory layer and Knowledge base for agents with WebUI
