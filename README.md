@@ -419,6 +419,7 @@
 
 ## Java
 
+* 【2025-08-01】[gravitee-io / gravitee-api-management](https://github.com/gravitee-io/gravitee-api-management) - Gravitee.io - OpenSource API Management
 * 【2025-07-29】[NemProject / nem](https://github.com/NemProject/nem) - number go up 💹
 * 【2025-07-29】[coze-dev / coze-java](https://github.com/coze-dev/coze-java) - The Java SDK for the Coze API
 * 【2025-07-24】[LaurieWired / GhidraMCP](https://github.com/LaurieWired/GhidraMCP) - MCP Server for Ghidra
@@ -538,6 +539,8 @@
 
 ## Python
 
+* 【2025-08-01】[microsoft / mcp-for-beginners](https://github.com/microsoft/mcp-for-beginners) - This open-source curriculum introduces the fundamentals of Model Context Protocol (MCP) through real-world, cross-language examples in .NET, Java, TypeScript, JavaScript, and Python. Designed for developers, it focuses on practical techniques for building modular, scalable, and secure AI workflows from session setup to service orchestration.
+* 【2025-08-01】[nikmcfly / ANUS](https://github.com/nikmcfly/ANUS) - 
 * 【2025-07-31】[protectai / vulnhuntr](https://github.com/protectai/vulnhuntr) - Zero shot vulnerability discovery using LLMs
 * 【2025-07-31】[denizsafak / abogen](https://github.com/denizsafak/abogen) - Generate audiobooks from EPUBs, PDFs and text with synchronized captions.
 * 【2025-07-28】[OWASP / Nest](https://github.com/OWASP/Nest) - Your gateway to OWASP. Discover, engage, and help shape the future!
@@ -887,6 +890,7 @@
 
 ## Javascript
 
+* 【2025-08-01】[viatsko / awesome-vscode](https://github.com/viatsko/awesome-vscode) - 🎨 A curated list of delightful VS Code packages and resources.
 * 【2025-07-30】[zumerlab / snapdom](https://github.com/zumerlab/snapdom) - snapDOM captures HTML elements to images with exceptional speed and accuracy.
 * 【2025-07-30】[hotheadhacker / no-as-a-service](https://github.com/hotheadhacker/no-as-a-service) - No-as-a-Service (NaaS) is a simple API that returns a random rejection reason. Use it when you need a realistic excuse, a fun “no,” or want to simulate being turned down in style.
 * 【2025-07-30】[zed-industries / zed-fonts](https://github.com/zed-industries/zed-fonts) - The Zed Mono and Sans typefaces, custom built from Iosevka
@@ -1057,6 +1061,7 @@
 
 ## Go
 
+* 【2025-08-01】[sst / opencode](https://github.com/sst/opencode) - AI coding agent, built for the terminal.
 * 【2025-07-31】[envoyproxy / ai-gateway](https://github.com/envoyproxy/ai-gateway) - Envoy AI Gateway is an open source project for using Envoy Gateway to handle request traffic from application clients to Generative AI services.
 * 【2025-07-30】[inngest / inngest](https://github.com/inngest/inngest) - The leading workflow orchestration platform. Run stateful step functions and AI workflows on serverless, servers, or the edge.
 * 【2025-07-28】[jhaals / yopass](https://github.com/jhaals/yopass) - Secure sharing of secrets, passwords and files
@@ -1516,6 +1521,8 @@
 
 ## C#
 
+* 【2025-08-01】[Luca3317 / TMPEffects](https://github.com/Luca3317/TMPEffects) - Easily animate Unity text and apply other effects with custom tags
+* 【2025-08-01】[CoplayDev / unity-mcp](https://github.com/CoplayDev/unity-mcp) - A Unity MCP server that allows MCP clients like Claude Desktop or Cursor to perform Unity Editor actions.
 * 【2025-07-31】[ClassIsland / ClassIsland](https://github.com/ClassIsland/ClassIsland) - 一款适用于班级多媒体屏幕的课表信息显示工具，可以一目了然地显示各种信息。
 * 【2025-07-30】[AIDotNet / OpenDeepWiki](https://github.com/AIDotNet/OpenDeepWiki) - OpenDeepWiki is the open-source version of the DeepWiki project, aiming to provide a powerful knowledge management and collaboration platform. The project is mainly developed using C# and TypeScript, supporting modular design, and is easy to expand and customize.
 * 【2025-07-30】[xenia-manager / xenia-manager](https://github.com/xenia-manager/xenia-manager) - Xenia Manager is a tool that tries to make using Xenia Emulator easier.
@@ -1863,6 +1870,8 @@
 
 ## Unknown
 
+* 【2025-08-01】[crescentpartha / CheatSheets-for-Developers](https://github.com/crescentpartha/CheatSheets-for-Developers) - A collection of programming CheatSheets for developers to boost your productivity and quick review to remember while working.
+* 【2025-08-01】[MuriithiEric / July2025Cohort-Hackathon1](https://github.com/MuriithiEric/July2025Cohort-Hackathon1) - 
 * 【2025-07-31】[omkarcloud / google-maps-scraper](https://github.com/omkarcloud/google-maps-scraper) - 👋 HOLA 👋 HOLA 👋 HOLA ! ENJOY OUR GOOGLE MAPS SCRAPER 🚀 TO EFFORTLESSLY EXTRACT DATA SUCH AS NAMES, ADDRESSES, PHONE NUMBERS, REVIEWS, WEBSITES, AND RATINGS FROM GOOGLE MAPS WITH EASE! 🤖
 * 【2025-07-30】[qcha / JBook](https://github.com/qcha/JBook) - Алгоритмы, паттерны, подготовка к собеседованиям, статьи и материалы по Java
 * 【2025-07-29】[melontini / bootloader-unlock-wall-of-shame](https://github.com/melontini/bootloader-unlock-wall-of-shame) - Keeping track of companies that "care about your data 🥺"
