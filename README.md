@@ -8,6 +8,9 @@
 
 ## All language
 
+* 【2025-08-13】[microsoft / poml](https://github.com/microsoft/poml) - Prompt Orchestration Markup Language
+* 【2025-08-13】[apple / embedding-atlas](https://github.com/apple/embedding-atlas) - Embedding Atlas is a tool that provides interactive visualizations for large embeddings. It allows you to visualize, cross-filter, and search embeddings and metadata.
+* 【2025-08-13】[actions / checkout](https://github.com/actions/checkout) - Action for checking out a repo
 * 【2025-08-12】[trailofbits / buttercup](https://github.com/trailofbits/buttercup) - 
 * 【2025-08-11】[idosal / git-mcp](https://github.com/idosal/git-mcp) - Put an end to code hallucinations! GitMCP is a free, open-source, remote MCP server for any GitHub project
 * 【2025-08-10】[lfnovo / open-notebook](https://github.com/lfnovo/open-notebook) - An Open Source implementation of Notebook LM with more flexibility and features
@@ -559,6 +562,7 @@
 
 ## Python
 
+* 【2025-08-13】[cheahjs / free-llm-api-resources](https://github.com/cheahjs/free-llm-api-resources) - A list of free LLM inference resources accessible via API.
 * 【2025-08-11】[omkarcloud / botasaurus](https://github.com/omkarcloud/botasaurus) - The All in One Framework to Build Undefeatable Scrapers
 * 【2025-08-10】[Pointcept / Pointcept](https://github.com/Pointcept/Pointcept) - Pointcept: Perceive the world with sparse points, a codebase for point cloud perception research. Latest works: Sonata (CVPR'25 Highlight), PTv3 (CVPR'24 Oral)
 * 【2025-08-10】[dataease / SQLBot](https://github.com/dataease/SQLBot) - 基于大模型和 RAG 的智能问数系统
@@ -925,6 +929,7 @@
 
 ## Javascript
 
+* 【2025-08-13】[lint-staged / lint-staged](https://github.com/lint-staged/lint-staged) - 🚫💩 — Run tasks like formatters and linters against staged git files
 * 【2025-08-12】[willmiao / ComfyUI-Lora-Manager](https://github.com/willmiao/ComfyUI-Lora-Manager) - LoRA Manager for ComfyUI - A powerful extension for organizing, previewing, and integrating LoRA models with metadata and workflow support.
 * 【2025-08-09】[benborla / mcp-server-mysql](https://github.com/benborla/mcp-server-mysql) - A Model Context Protocol server that provides read-only access to MySQL databases. This server enables LLMs to inspect database schemas and execute read-only queries.
 * 【2025-08-09】[Kaliiiiiiiiii-Vinyzu / patchright](https://github.com/Kaliiiiiiiiii-Vinyzu/patchright) - Undetected version of the Playwright testing and automation library.
@@ -1279,6 +1284,7 @@
 
 ## C
 
+* 【2025-08-13】[armink / FlashDB](https://github.com/armink/FlashDB) - An ultra-lightweight database that supports key-value and time series data | 一款支持 KV 数据和时序数据的超轻量级数据库
 * 【2025-08-11】[TEN-framework / ten-vad](https://github.com/TEN-framework/ten-vad) - Voice Activity Detector(VAD) from TEN: low-latency, high-performance and lightweight
 * 【2025-08-06】[TinyCC / tinycc](https://github.com/TinyCC/tinycc) - Unofficial mirror of mob development branch
 * 【2025-08-06】[utkarshdalal / GameNative](https://github.com/utkarshdalal/GameNative) - Lightweight unofficial Steam client for Android
@@ -1581,6 +1587,7 @@
 
 ## C#
 
+* 【2025-08-13】[IvanMurzak / Unity-MCP](https://github.com/IvanMurzak/Unity-MCP) - MCP Server + Plugin for Unity Editor and Unity game. The Plugin allows to connect to MCP clients like Claude Desktop or others.
 * 【2025-08-11】[xiaoyaocz / AllLive](https://github.com/xiaoyaocz/AllLive) - 获取多个直播平台的信息和弹幕
 * 【2025-08-07】[microsoft / Foundry-Local](https://github.com/microsoft/Foundry-Local) - 
 * 【2025-08-02】[Arcenox-co / TickerQ](https://github.com/Arcenox-co/TickerQ) - TickerQ is a fast, reflection-free background task scheduler for .NET — built with source generators, EF Core integration, cron + time-based execution, and a real-time dashboard.
