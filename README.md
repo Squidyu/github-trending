@@ -8,6 +8,10 @@
 
 ## All language
 
+* 【2025-08-24】[winapps-org / winapps](https://github.com/winapps-org/winapps) - Run Windows apps such as Microsoft Office/Adobe in Linux (Ubuntu/Fedora) and GNOME/KDE as if they were a part of the native OS, including Nautilus integration. Hard fork of https://github.com/Fmstrat/winapps/
+* 【2025-08-24】[HKUDS / DeepCode](https://github.com/HKUDS/DeepCode) - "DeepCode: Open Agentic Coding (Paper2Code & Text2Web & Text2Backend)"
+* 【2025-08-24】[scottpetrovic / mesh2motion-app](https://github.com/scottpetrovic/mesh2motion-app) - Import a 3D Model and automatically assign and export animations
+* 【2025-08-24】[pestphp / pest](https://github.com/pestphp/pest) - Pest is an elegant PHP testing Framework with a focus on simplicity, meticulously designed to bring back the joy of testing in PHP.
 * 【2025-08-23】[puckeditor / puck](https://github.com/puckeditor/puck) - The visual editor for React
 * 【2025-08-22】[firecrawl / firecrawl](https://github.com/firecrawl/firecrawl) - The Web Data API for AI - Turn entire websites into LLM-ready markdown or structured data 🔥
 * 【2025-08-22】[plait-board / drawnix](https://github.com/plait-board/drawnix) - 开源白板工具（SaaS），一体化白板，包含思维导图、流程图、自由画等。All in one open-source whiteboard tool with mind, flowchart, freehand and etc.
@@ -447,6 +451,7 @@
 
 ## Java
 
+* 【2025-08-24】[bancolombia / scaffold-clean-architecture](https://github.com/bancolombia/scaffold-clean-architecture) - Gradle plugin to create a clean application in Java that already works, It follows our best practices!
 * 【2025-08-16】[sepinf-inc / IPED](https://github.com/sepinf-inc/IPED) - IPED Digital Forensic Tool. It is an open source software that can be used to process and analyze digital evidence, often seized at crime scenes by law enforcement or in a corporate investigation by private examiners.
 * 【2025-08-15】[kishanrajput23 / Java-Projects-Collections](https://github.com/kishanrajput23/Java-Projects-Collections) - Contribute in this repository by raising a genuine PR. Then get verified, and earn the free swags from Hacktoberfest 2023.
 * 【2025-08-12】[TownyAdvanced / Towny](https://github.com/TownyAdvanced/Towny) - Towny Advanced Minecraft plugin for Bukkit/Spigot.
@@ -577,6 +582,12 @@
 
 ## Python
 
+* 【2025-08-24】[1rgs / claude-code-proxy](https://github.com/1rgs/claude-code-proxy) - Run Claude Code on OpenAI models
+* 【2025-08-24】[SamuelSchmidgall / AgentLaboratory](https://github.com/SamuelSchmidgall/AgentLaboratory) - Agent Laboratory is an end-to-end autonomous research workflow meant to assist you as the human researcher toward implementing your research ideas
+* 【2025-08-24】[Arindam200 / awesome-ai-apps](https://github.com/Arindam200/awesome-ai-apps) - A collection of projects showcasing RAG, agents, workflows, and other AI use cases
+* 【2025-08-24】[robusta-dev / holmesgpt](https://github.com/robusta-dev/holmesgpt) - Your 24/7 On-Call AI Agent - Solve Alerts Faster with Automatic Correlations, Investigations, and More
+* 【2025-08-24】[NVIDIA / NeMo-Agent-Toolkit](https://github.com/NVIDIA/NeMo-Agent-Toolkit) - The NVIDIA NeMo Agent toolkit is an open-source library for efficiently connecting and optimizing teams of AI agents.
+* 【2025-08-24】[strands-agents / sdk-python](https://github.com/strands-agents/sdk-python) - A model-driven approach to building AI agents in just a few lines of code.
 * 【2025-08-23】[codelion / openevolve](https://github.com/codelion/openevolve) - Open-source implementation of AlphaEvolve
 * 【2025-08-23】[KoljaB / RealtimeVoiceChat](https://github.com/KoljaB/RealtimeVoiceChat) - Have a natural, spoken conversation with AI!
 * 【2025-08-22】[NVIDIA-NeMo / RL](https://github.com/NVIDIA-NeMo/RL) - Scalable toolkit for efficient model reinforcement
@@ -1142,6 +1153,7 @@
 
 ## Go
 
+* 【2025-08-24】[flexprice / flexprice](https://github.com/flexprice/flexprice) - Usage-based pricing and billing for developers 🔓 Cloud or self-hosted ⚙️ No-code UI 💰 Realtime usage metering 🎟 Credits & top-ups 🔑 Control feature access
 * 【2025-08-23】[OpenCSGs / csghub-server](https://github.com/OpenCSGs/csghub-server) - csghub-server is the backend server for CSGHub which helps user to manage datasets, modes, and also run Model Inference, Finetune and Application Spaces.
 * 【2025-08-23】[korotovsky / slack-mcp-server](https://github.com/korotovsky/slack-mcp-server) - The most powerful MCP Slack Server with no permission requirements, Apps support, multiple transports Stdio and SSE, DMs, Group DMs and smart history fetch logic.
 * 【2025-08-23】[obot-platform / obot](https://github.com/obot-platform/obot) - Open-source MCP Gateway and AI Platform
@@ -1633,6 +1645,7 @@
 
 ## C#
 
+* 【2025-08-24】[Ottermandias / Glamourer](https://github.com/Ottermandias/Glamourer) - Change outside appearance of actors using Penumbra.
 * 【2025-08-23】[microsoft / mcp](https://github.com/microsoft/mcp) - Catalog of official Microsoft MCP (Model Context Protocol) server implementations for AI-powered data access and tool integration
 * 【2025-08-21】[microsoftgraph / msgraph-sdk-powershell](https://github.com/microsoftgraph/msgraph-sdk-powershell) - Powershell SDK for Microsoft Graph
 * 【2025-08-20】[katboi01 / UmaViewer](https://github.com/katboi01/UmaViewer) - Asset Viewer for Uma Musume
@@ -1998,6 +2011,7 @@
 
 ## Unknown
 
+* 【2025-08-24】[Arudjreis / awesome-security-GRC](https://github.com/Arudjreis/awesome-security-GRC) - Curated list of resources for security Governance, Risk Management, Compliance and Audit professionals and enthusiasts (if they exist).
 * 【2025-08-18】[enescingoz / awesome-n8n-templates](https://github.com/enescingoz/awesome-n8n-templates) - Supercharge your workflow automation with this curated collection of n8n templates! Instantly connect your favorite apps-like Gmail, Telegram, Google Drive, Slack, and more-with ready-to-use, AI-powered automations. Save time, boost productivity, and unlock the true potential of n8n in just a few clicks.
 * 【2025-08-18】[TheGP / untidetect-tools](https://github.com/TheGP/untidetect-tools) - List of anti-detect and humanizing tools and browsers, including captcha solvers and sms-activation.
 * 【2025-08-17】[lukasmasuch / best-of-ml-python](https://github.com/lukasmasuch/best-of-ml-python) - 🏆 A ranked list of awesome machine learning Python libraries. Updated weekly.
