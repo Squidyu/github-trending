@@ -8,6 +8,7 @@
 
 ## All language
 
+* 【2025-08-28】[firecracker-microvm / firecracker](https://github.com/firecracker-microvm/firecracker) - Secure and fast microVMs for serverless computing.
 * 【2025-08-24】[winapps-org / winapps](https://github.com/winapps-org/winapps) - Run Windows apps such as Microsoft Office/Adobe in Linux (Ubuntu/Fedora) and GNOME/KDE as if they were a part of the native OS, including Nautilus integration. Hard fork of https://github.com/Fmstrat/winapps/
 * 【2025-08-24】[HKUDS / DeepCode](https://github.com/HKUDS/DeepCode) - "DeepCode: Open Agentic Coding (Paper2Code & Text2Web & Text2Backend)"
 * 【2025-08-24】[scottpetrovic / mesh2motion-app](https://github.com/scottpetrovic/mesh2motion-app) - Import a 3D Model and automatically assign and export animations
@@ -451,6 +452,7 @@
 
 ## Java
 
+* 【2025-08-28】[githubtraining / hellogitworld](https://github.com/githubtraining/hellogitworld) - Hello Git World sample training repository
 * 【2025-08-27】[AIDC-AI / Agentic-ADK](https://github.com/AIDC-AI/Agentic-ADK) - Agentic ADK is an Agent application development framework launched by Alibaba International AI Business, based on Google-ADK and Ali-LangEngine.
 * 【2025-08-27】[sonatype / nexus-public](https://github.com/sonatype/nexus-public) - Sonatype Nexus Repository Open-source codebase mirror
 * 【2025-08-27】[freeplane / freeplane](https://github.com/freeplane/freeplane) - Application for Mind Mapping, Knowledge Management, Project Management. Develop, organize and communicate your ideas and knowledge in the most effective way.
@@ -1345,6 +1347,7 @@
 
 ## C
 
+* 【2025-08-28】[documentdb / documentdb](https://github.com/documentdb/documentdb) - MongoDB-compatible database engine for cloud-native and open-source workloads. Built for scalability, performance, and developer productivity.
 * 【2025-08-22】[Adaptix-Framework / AdaptixC2](https://github.com/Adaptix-Framework/AdaptixC2) - 
 * 【2025-08-20】[kolunmi / bazaar](https://github.com/kolunmi/bazaar) - New App Store for GNOME
 * 【2025-08-20】[dekuNukem / daytripper](https://github.com/dekuNukem/daytripper) - Hide-My-Windows Laser Tripwire
@@ -1808,6 +1811,7 @@
 
 ## Html
 
+* 【2025-08-28】[quinlan-lab / applied-computational-genomics](https://github.com/quinlan-lab/applied-computational-genomics) - Applied Computational Genomics Course at UU: Spring 2020
 * 【2025-08-26】[g4m3r0 / ImageUpscaler](https://github.com/g4m3r0/ImageUpscaler) - Elevate your low-res images effortlessly with our simple Flask web app powered by AI image upscaling.
 * 【2025-08-19】[Zie619 / n8n-workflows](https://github.com/Zie619/n8n-workflows) - all of the workflows of n8n i could find (also from the site itself)
 * 【2025-08-15】[strands-agents / docs](https://github.com/strands-agents/docs) - Documentation for the Strands Agents SDK. A model-driven approach to building AI agents in just a few lines of code.
