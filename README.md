@@ -8,6 +8,7 @@
 
 ## All language
 
+* 【2025-09-08】[Kilo-Org / kilocode](https://github.com/Kilo-Org/kilocode) - Open Source AI coding assistant for planning, building, and fixing code. We frequently merge features from open-source projects like Roo Code and Cline, while building our own vision. Follow us: kilocode.ai/social
 * 【2025-09-07】[zama-ai / fhevm](https://github.com/zama-ai/fhevm) - FHEVM, a full-stack framework for integrating Fully Homomorphic Encryption (FHE) with blockchain applications
 * 【2025-09-06】[nukeop / nuclear](https://github.com/nukeop/nuclear) - Streaming music player that finds free music for you
 * 【2025-09-06】[EvolutionAPI / evolution-api](https://github.com/EvolutionAPI/evolution-api) - Evolution API is an open-source WhatsApp integration API
@@ -466,6 +467,8 @@
 
 ## Java
 
+* 【2025-09-08】[Mentra-Community / MentraOS](https://github.com/Mentra-Community/MentraOS) - Smart glasses OS, with dozens of built-in apps. Users get AI assistant, notifications, translation, screen mirror, captions, and more. Devs get to write 1 app that runs on any pair of smart glases.
+* 【2025-09-08】[TimefoldAI / timefold-quickstarts](https://github.com/TimefoldAI/timefold-quickstarts) - Get started with Timefold quickstarts here. Optimize the vehicle routing problem, employee rostering, task assignment, maintenance scheduling and other planning problems.
 * 【2025-09-07】[lhccong / fish-island-backend](https://github.com/lhccong/fish-island-backend) - 摸鱼岛🎣后端 基于爬虫 ➕ Netty ➕ SpringBoot ➕Redis➕ MySQL 开源🌟一站式摸鱼网
 * 【2025-08-29】[LaurieWired / Malimite](https://github.com/LaurieWired/Malimite) - iOS and macOS Decompiler
 * 【2025-08-28】[githubtraining / hellogitworld](https://github.com/githubtraining/hellogitworld) - Hello Git World sample training repository
@@ -603,6 +606,7 @@
 
 ## Python
 
+* 【2025-09-08】[NVIDIA / TensorRT-Model-Optimizer](https://github.com/NVIDIA/TensorRT-Model-Optimizer) - A unified library of state-of-the-art model optimization techniques like quantization, pruning, distillation, speculative decoding, etc. It compresses deep learning models for downstream deployment frameworks like TensorRT-LLM or TensorRT to optimize inference speed.
 * 【2025-09-07】[Vector-Wangel / XLeRobot](https://github.com/Vector-Wangel/XLeRobot) - XLeRobot: Practical Dual-Arm Mobile Home Robot for $660
 * 【2025-09-06】[qwersyk / Newelle](https://github.com/qwersyk/Newelle) - Newelle - Your Ultimate Virtual Assistant
 * 【2025-09-05】[slavakurilyak / awesome-ai-agents](https://github.com/slavakurilyak/awesome-ai-agents) - Awesome list of 300+ agentic AI resources
@@ -1006,6 +1010,7 @@
 
 ## Javascript
 
+* 【2025-09-08】[mindcraft-bots / mindcraft](https://github.com/mindcraft-bots/mindcraft) - Minecraft AI with LLMs+Mineflayer
 * 【2025-09-07】[6Kmfi6HP / EDtunnel](https://github.com/6Kmfi6HP/EDtunnel) - EDtunnel 是一个基于 Cloudflare Workers 和 Pages 的代理工具，支持多种协议和配置选项。 EDtunnel is a proxy tool based on Cloudflare Workers and Pages, supporting multiple protocols and configuration options.
 * 【2025-09-07】[devxprite / infoooze](https://github.com/devxprite/infoooze) - A OSINT tool which helps you to quickly find information effectively. All you need is to input and it will take take care of rest.
 * 【2025-09-05】[bcanseco / github-contribution-graph-action](https://github.com/bcanseco/github-contribution-graph-action) - 🙈 This GitHub action will automatically push empty commits to one of your repositories.
@@ -1548,6 +1553,7 @@
 
 ## C++
 
+* 【2025-09-08】[MrNeRF / LichtFeld-Studio](https://github.com/MrNeRF/LichtFeld-Studio) - LichtFeld Studio: Where reality and the digital world blend.
 * 【2025-09-02】[ITotalJustice / sphaira](https://github.com/ITotalJustice/sphaira) - A homebrew menu for the Nintendo Switch
 * 【2025-09-01】[underpig1 / octos](https://github.com/underpig1/octos) - Create and share web-based interactive, animated wallpapers on Windows 🚀 Available on the Microsoft Store
 * 【2025-08-31】[unitreerobotics / unitree_ros2](https://github.com/unitreerobotics/unitree_ros2) - 
@@ -1714,6 +1720,8 @@
 
 ## C#
 
+* 【2025-09-08】[builtbybel / Flyoobe](https://github.com/builtbybel/Flyoobe) - Fly through your Windows 11 setup 🐝
+* 【2025-09-08】[immisterio / Lampac](https://github.com/immisterio/Lampac) - 
 * 【2025-09-06】[teelur / budget-board](https://github.com/teelur/budget-board) - A simple app for tracking monthly spending and working towards financial goals.
 * 【2025-09-05】[jbogard / ContosoUniversityDotNetCore-Pages](https://github.com/jbogard/ContosoUniversityDotNetCore-Pages) - With Razor Pages
 * 【2025-09-03】[Planshit / ProjectEye](https://github.com/Planshit/ProjectEye) - 😎 一个基于20-20-20规则的用眼休息提醒Windows软件
@@ -1998,6 +2006,7 @@
 
 ## Css
 
+* 【2025-09-08】[skeletonlabs / skeleton](https://github.com/skeletonlabs/skeleton) - Skeleton is an adaptive design system powered by Tailwind CSS.
 * 【2025-09-01】[CachyOS / cachyos-hyprland-settings](https://github.com/CachyOS/cachyos-hyprland-settings) - Settings and dotfiles for CachyOS hyprland
 * 【2025-09-01】[stpnwf / ZestyTheme](https://github.com/stpnwf/ZestyTheme) - A minimal and elegant theme for Jellyfin
 * 【2025-08-26】[SallaApp / theme-raed](https://github.com/SallaApp/theme-raed) - A wide range of features to support your business...
