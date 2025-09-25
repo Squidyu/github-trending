@@ -8,6 +8,9 @@
 
 ## All language
 
+* 【2025-09-25】[cloudflare / capnweb](https://github.com/cloudflare/capnweb) - JavaScript/TypeScript-native, low-boilerplate, object-capability RPC system
+* 【2025-09-25】[HKUDS / RAG-Anything](https://github.com/HKUDS/RAG-Anything) - "RAG-Anything: All-in-One RAG Framework"
+* 【2025-09-25】[bytedance / Dolphin](https://github.com/bytedance/Dolphin) - The official repo for “Dolphin: Document Image Parsing via Heterogeneous Anchor Prompting”, ACL, 2025.
 * 【2025-09-24】[foundry-rs / foundry](https://github.com/foundry-rs/foundry) - Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust.
 * 【2025-09-24】[Kludex / uvicorn](https://github.com/Kludex/uvicorn) - An ASGI web server, for Python. 🦄
 * 【2025-09-21】[winfunc / opcode](https://github.com/winfunc/opcode) - A powerful GUI app and Toolkit for Claude Code - Create custom agents, manage interactive Claude Code sessions, run secure background agents, and more.
@@ -629,6 +632,7 @@
 
 ## Python
 
+* 【2025-09-25】[Klavis-AI / klavis](https://github.com/Klavis-AI/klavis) - Klavis AI (YC X25): MCP integration layers that let AI agents use thousands of tools reliably.
 * 【2025-09-24】[Olow304 / memvid](https://github.com/Olow304/memvid) - Video-based AI memory library. Store millions of text chunks in MP4 files with lightning-fast semantic search. No database needed.
 * 【2025-09-23】[kaixxx / noScribe](https://github.com/kaixxx/noScribe) - Cutting edge AI technology for automated audio transcription. A nice GUI for OpenAIs Whisper and pyannote (speaker identification)
 * 【2025-09-21】[google-agentic-commerce / a2a-x402](https://github.com/google-agentic-commerce/a2a-x402) - The A2A x402 Extension brings cryptocurrency payments to the Agent-to-Agent (A2A) protocol, enabling agents to monetize their services through on-chain payments. This extension revives the spirit of HTTP 402 "Payment Required" for the decentralized agent ecosystem.
@@ -1047,6 +1051,7 @@
 
 ## Javascript
 
+* 【2025-09-25】[asterdex / api-docs](https://github.com/asterdex/api-docs) - 
 * 【2025-09-23】[andrepimenta / claude-code-chat](https://github.com/andrepimenta/claude-code-chat) - Beautiful Claude Code Chat Interface for VS Code
 * 【2025-09-18】[httptoolkit / frida-interception-and-unpinning](https://github.com/httptoolkit/frida-interception-and-unpinning) - Frida scripts to directly MitM all HTTPS traffic from a target mobile application
 * 【2025-09-16】[bloodorca / hollow](https://github.com/bloodorca/hollow) - Online Hollow Knight save file editor .
@@ -1254,6 +1259,7 @@
 
 ## Go
 
+* 【2025-09-25】[base / node](https://github.com/base/node) - Everything required to run your own Base node
 * 【2025-09-16】[tbphp / gpt-load](https://github.com/tbphp/gpt-load) - Multi-channel AI proxy with intelligent key rotation. 智能密钥轮询的多渠道 AI 代理。
 * 【2025-09-15】[docker / mcp-registry](https://github.com/docker/mcp-registry) - Official Docker MCP registry
 * 【2025-09-11】[sjzar / chatlog](https://github.com/sjzar/chatlog) - chat log tool, easily use your own chat data. 聊天记录工具，轻松使用自己的聊天数据
@@ -1605,6 +1611,7 @@
 
 ## C++
 
+* 【2025-09-25】[Byrom90 / XeUnshackle](https://github.com/Byrom90/XeUnshackle) - Custom Xbox 360 app designed to be used with the Xbox360BadUpdate exploit. Applies a set of HV/Kernel patches & loads the Dashlaunch system module (launch.xex).
 * 【2025-09-16】[skift-org / skift](https://github.com/skift-org/skift) - 🥑 A modern delightful operating system
 * 【2025-09-13】[argotorg / solidity](https://github.com/argotorg/solidity) - Solidity, the Smart Contract Programming Language
 * 【2025-09-12】[ashtf8 / PocketMage_PDA](https://github.com/ashtf8/PocketMage_PDA) - An E-Ink PDA device using the ESP32 S3.
