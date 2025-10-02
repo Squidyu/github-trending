@@ -8,6 +8,8 @@
 
 ## All language
 
+* 【2025-10-02】[PHPMailer / PHPMailer](https://github.com/PHPMailer/PHPMailer) - The classic email sending library for PHP
+* 【2025-10-02】[YILING0013 / AI_NovelGenerator](https://github.com/YILING0013/AI_NovelGenerator) - 使用ai生成多章节的长篇小说，自动衔接上下文、伏笔
 * 【2025-10-01】[anthropics / claude-agent-sdk-python](https://github.com/anthropics/claude-agent-sdk-python) - 
 * 【2025-10-01】[cjpais / Handy](https://github.com/cjpais/Handy) - A free, open source, and extensible speech-to-text application that works completely offline.
 * 【2025-09-30】[Done-0 / fuck-u-code](https://github.com/Done-0/fuck-u-code) - Legacy-Mess Detector – assess the “legacy-mess level” of your code and output a beautiful report | 屎山代码检测器，评估代码的“屎山等级”并输出美观的报告
@@ -645,6 +647,7 @@
 
 ## Python
 
+* 【2025-10-02】[google-deepmind / mujoco_warp](https://github.com/google-deepmind/mujoco_warp) - GPU-optimized version of the MuJoCo physics simulator, designed for NVIDIA hardware.
 * 【2025-10-01】[Oros42 / IMSI-catcher](https://github.com/Oros42/IMSI-catcher) - This program show you IMSI numbers of cellphones around you.
 * 【2025-09-30】[THUDM / slime](https://github.com/THUDM/slime) - slime is an LLM post-training framework for RL Scaling.
 * 【2025-09-29】[elliottech / lighter-python](https://github.com/elliottech/lighter-python) - Public Python SDK for Lighter
@@ -1281,6 +1284,7 @@
 
 ## Go
 
+* 【2025-10-02】[charlie0129 / batt](https://github.com/charlie0129/batt) - Control and limit battery charging on Apple Silicon MacBooks.
 * 【2025-10-01】[dbos-inc / dbos-transact-golang](https://github.com/dbos-inc/dbos-transact-golang) - Durable Workflow Orchestration with Golang and Postgres
 * 【2025-09-30】[eduardolat / pgbackweb](https://github.com/eduardolat/pgbackweb) - 🐘 Effortless PostgreSQL backups with a user-friendly web interface! 🌐💾
 * 【2025-09-25】[base / node](https://github.com/base/node) - Everything required to run your own Base node
@@ -1475,6 +1479,7 @@
 
 ## C
 
+* 【2025-10-02】[rfjakob / earlyoom](https://github.com/rfjakob/earlyoom) - earlyoom - Early OOM Daemon for Linux
 * 【2025-09-29】[lovyan03 / LovyanGFX](https://github.com/lovyan03/LovyanGFX) - SPI LCD graphics library for ESP32 (ESP-IDF/ArduinoESP32) / ESP8266 (ArduinoESP8266) / SAMD51(Seeed ArduinoSAMD51)
 * 【2025-09-24】[zserge / jsmn](https://github.com/zserge/jsmn) - Jsmn is a world fastest JSON parser/tokenizer. This is the official repo replacing the old one at Bitbucket
 * 【2025-09-19】[MidnightCommander / mc](https://github.com/MidnightCommander/mc) - Midnight Commander's repository
@@ -1985,6 +1990,7 @@
 
 ## Html
 
+* 【2025-10-02】[bnb-chain / bnb-chain.github.io](https://github.com/bnb-chain/bnb-chain.github.io) - The official documentation for BNB Chain.
 * 【2025-09-28】[dsc-jssstu / CamPhish](https://github.com/dsc-jssstu/CamPhish) - 
 * 【2025-09-27】[owickstrom / the-monospace-web](https://github.com/owickstrom/the-monospace-web) - A minimalist design exploration
 * 【2025-09-27】[dinguschan-owo / Helios](https://github.com/dinguschan-owo/Helios) - Helios is an COMPLETELY UNBLOCKABLE proxy with tabs that can be static hosted, can be run locally, and is html css js only! This is (as far as i've found) the only true UNBLOCKABLE only HTML proxy that works with any blocking software! Plus its open sauce so you can take this code and build your own proxy! (⭐ PLEASE star if you fork! ⭐)
