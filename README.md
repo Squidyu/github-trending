@@ -8,6 +8,8 @@
 
 ## All language
 
+* 【2025-10-04】[microsoft / agent-framework](https://github.com/microsoft/agent-framework) - A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .NET.
+* 【2025-10-04】[amir1376 / ab-download-manager](https://github.com/amir1376/ab-download-manager) - A Download Manager that speeds up your downloads
 * 【2025-10-03】[google / tunix](https://github.com/google/tunix) - A JAX-native LLM Post-Training Library
 * 【2025-10-03】[atuinsh / desktop](https://github.com/atuinsh/desktop) - 📖 Runbooks that run
 * 【2025-10-03】[hsliuping / TradingAgents-CN](https://github.com/hsliuping/TradingAgents-CN) - 基于多智能体LLM的中文金融交易框架 - TradingAgents中文增强版
@@ -506,6 +508,7 @@
 
 ## Java
 
+* 【2025-10-04】[adityatandon15 / LLD](https://github.com/adityatandon15/LLD) - All Code of LLD Playlist
 * 【2025-10-03】[DSpace / DSpace](https://github.com/DSpace/DSpace) - (Official) The DSpace digital asset management system that powers your Institutional Repository
 * 【2025-10-01】[jabrena / cursor-rules-java](https://github.com/jabrena/cursor-rules-java) - A collection of System prompts for Java that help software engineers in their daily programming work & data pipelines. 👉 Your feedback is important to evolve this project. Participate in the following questionnaire: 👈 https://forms.gle/TpNXENjmu45wuXoi6
 * 【2025-09-28】[apache / fesod](https://github.com/apache/fesod) - Fast. Easy. Done. Processing Excels without worrying about large files causing OOM.
@@ -651,6 +654,7 @@
 
 ## Python
 
+* 【2025-10-04】[yichuan-w / LEANN](https://github.com/yichuan-w/LEANN) - RAG on Everything with LEANN. Enjoy 97% storage savings while running a fast, accurate, and 100% private RAG application on your personal device.
 * 【2025-10-03】[Mr-Homeless / waldo](https://github.com/Mr-Homeless/waldo) - Waldo Vision | Cheat detection
 * 【2025-10-02】[google-deepmind / mujoco_warp](https://github.com/google-deepmind/mujoco_warp) - GPU-optimized version of the MuJoCo physics simulator, designed for NVIDIA hardware.
 * 【2025-10-01】[Oros42 / IMSI-catcher](https://github.com/Oros42/IMSI-catcher) - This program show you IMSI numbers of cellphones around you.
@@ -1485,6 +1489,8 @@
 
 ## C
 
+* 【2025-10-04】[tvlabs / edge264](https://github.com/tvlabs/edge264) - Simple H.264 decoder
+* 【2025-10-04】[jkuhlmann / cgltf](https://github.com/jkuhlmann/cgltf) - 💠 Single-file glTF 2.0 loader and writer written in C99
 * 【2025-10-03】[mudita / MuditaOS](https://github.com/mudita/MuditaOS) - Mobile operating system based on FreeRTOS™ optimized for E Ink displays - developed for Mudita Pure minimalist phone
 * 【2025-10-02】[rfjakob / earlyoom](https://github.com/rfjakob/earlyoom) - earlyoom - Early OOM Daemon for Linux
 * 【2025-09-29】[lovyan03 / LovyanGFX](https://github.com/lovyan03/LovyanGFX) - SPI LCD graphics library for ESP32 (ESP-IDF/ArduinoESP32) / ESP8266 (ArduinoESP8266) / SAMD51(Seeed ArduinoSAMD51)
@@ -1648,6 +1654,7 @@
 
 ## C++
 
+* 【2025-10-04】[frankarobotics / franka_ros2](https://github.com/frankarobotics/franka_ros2) - ROS 2 integration for Franka research robots
 * 【2025-10-03】[tile-ai / tilelang](https://github.com/tile-ai/tilelang) - Domain-specific language designed to streamline the development of high-performance GPU/CPU/Accelerators kernels
 * 【2025-09-30】[mhogomchungu / media-downloader](https://github.com/mhogomchungu/media-downloader) - Media Downloader is a Qt/C++ front end to yt-dlp, youtube-dl, gallery-dl, lux, you-get, svtplay-dl, aria2c, wget and safari books..
 * 【2025-09-29】[luanti-org / luanti](https://github.com/luanti-org/luanti) - Luanti (formerly Minetest) is an open source voxel game-creation platform with easy modding and game creation
@@ -1998,6 +2005,7 @@
 
 ## Html
 
+* 【2025-10-04】[zaproxy / zap-extensions](https://github.com/zaproxy/zap-extensions) - ZAP Add-ons
 * 【2025-10-03】[bobbyiliev / 101-linux-commands](https://github.com/bobbyiliev/101-linux-commands) - 101 Linux commands Open-source eBook and CLI tool
 * 【2025-10-03】[cisco / cisco-mibs](https://github.com/cisco/cisco-mibs) - Various SNMP MIBs from Cisco
 * 【2025-10-02】[bnb-chain / bnb-chain.github.io](https://github.com/bnb-chain/bnb-chain.github.io) - The official documentation for BNB Chain.
@@ -2135,6 +2143,8 @@
 
 ## Css
 
+* 【2025-10-04】[supabase / supabase-js](https://github.com/supabase/supabase-js) - An isomorphic Javascript client for Supabase. Query your Supabase database, subscribe to realtime events, upload and download files, browse typescript examples, invoke postgres functions via rpc, invoke supabase edge functions, query pgvector.
+* 【2025-10-04】[neeraj542 / Personal-Finance-Tracker](https://github.com/neeraj542/Personal-Finance-Tracker) - The Personal Finance Tracker is a web application designed to help individuals manage their finances effectively. It provides a user-friendly interface for tracking income and expenses, setting financial goals, and monitoring budget limits.
 * 【2025-09-29】[bahamas10 / ysap](https://github.com/bahamas10/ysap) - You Suck at Programming - Dave Eddy
 * 【2025-09-26】[hydralauncher / hydra-themes](https://github.com/hydralauncher/hydra-themes) - Community Custom Themes for Hydra Launcher
 * 【2025-09-17】[aaaaalexis / obsidian-cupertino](https://github.com/aaaaalexis/obsidian-cupertino) - A native look and feel Obsidian theme designed for a clean, focused, and mobile-friendly writing experience.
@@ -2241,6 +2251,7 @@
 
 ## Unknown
 
+* 【2025-10-04】[doggy8088 / github-copilot-configs](https://github.com/doggy8088/github-copilot-configs) - Will 保哥整理的最佳 GitHub Copilot 設定
 * 【2025-09-29】[rohitg00 / DevOpsCommunity](https://github.com/rohitg00/DevOpsCommunity) - DevOps/SRE community is for those folks who are trying to learn or explore DevOps with the help of experienced professionals. Opportunities are open to share.
 * 【2025-09-26】[TsinghuaC3I / Awesome-RL-for-LRMs](https://github.com/TsinghuaC3I/Awesome-RL-for-LRMs) - A Survey of Reinforcement Learning for Large Reasoning Models
 * 【2025-09-26】[Iamrushabhshahh / AWS-Certified-Solutions-Architect-Associate-SAA-C03-Exam-Dump-With-Solution](https://github.com/Iamrushabhshahh/AWS-Certified-Solutions-Architect-Associate-SAA-C03-Exam-Dump-With-Solution) - Comprehensive collection of study materials, practice exams Question, and Personally Solved Mcq to help you prepare for the AWS Certified Solutions Architect – Associate (SAA-C03) exam.
