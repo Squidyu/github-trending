@@ -5,10 +5,14 @@ name: Daily Github Trending
 on:
   push:
     branches: [ "main" ]
-
+  schedule:
+      - cron: '0 0 * * *'  # 每天自动执行，可选
 jobs:
   build:
 
+    permissions:
+      contents: write
+      
     runs-on: ubuntu-latest
 
     steps:
