@@ -106,10 +106,10 @@ def convert_lang_title(lang):
 
 def get_archived_contents():
     archived_contents = []
-    archived_files = os.listdir('./archived')
+    archived_files = os.listdir('./daily')
     for file in archived_files:
         content = ''
-        with open('./archived/' + file, mode='r', encoding='utf-8') as f:
+        with open('./daily/' + file, mode='r', encoding='utf-8') as f:
             content = f.read()
         archived_contents.append(content)
     return archived_contents
