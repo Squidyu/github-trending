@@ -6,110 +6,117 @@ import urllib.parse
 from pyquery import PyQuery as pq
 
 HEADERS = {
-    'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10.7; rv:11.0) Gecko/20100101 Firefox/11.0',
+    'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0 Safari/537.36',
     'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
-    'Accept-Encoding': 'gzip,deflate,sdch',
-    'Accept-Language': 'zh-CN,zh;q=0.8'
+    'Accept-Language': 'zh-CN,zh;q=0.9'
 }
 
-# -------------------------
-# 核心爬取函数
-# -------------------------
+# 要抓取的语言列表（不包含 all）
+LANGUAGES = ['java', 'python', 'javascript', 'go', 'c', 'c++', 'c#', 'html', 'css', 'unknown']
+
 def scrape_url(url):
-    print(f"🕸️ Fetching: {url}")
-    r = requests.get(url, headers=HEADERS)
+    """抓取单个 URL，返回 repo 列表：[{title, url, description}, ...]"""
+    print(f"🕸 Fetching: {url}")
+    try:
+        r = requests.get(url, headers=HEADERS, timeout=20)
+    except Exception as e:
+        print(f"⚠️ Request error for {url}: {e}")
+        return []
+
     if r.status_code != 200:
-        print(f"⚠️ Request failed: {r.status_code}")
+        print(f"⚠️ Request returned status {r.status_code} for {url}")
         return []
 
     d = pq(r.content)
     items = d('div.Box article.Box-row')
-
     results = []
     for item in items:
         i = pq(item)
-        title = i(".lh-condensed a").text()
-        description = i("p.col-9").text()
+        title = (i(".lh-condensed a").text() or "").strip()
+        desc = (i("p.col-9").text() or "").strip()
         href = i(".lh-condensed a").attr("href")
         if not href:
             continue
-        url = "https://github.com" + href.strip()
+        repo_url = "https://github.com" + href.strip()
         results.append({
             'title': title,
-            'url': url,
-            'description': format_description(description)
+            'url': repo_url,
+            'description': desc.replace('\r', '').replace('\n', ' ')
         })
     return results
 
-
-# -------------------------
-# 爬取单语言（英文 + 中文）
-# -------------------------
-def scrape_lang(language):
-    """抓取某个语言的英文 trending"""
-    lang_url = f"https://github.com/trending/{urllib.parse.quote_plus(language)}" if language else "https://github.com/trending"
-    return scrape_url(lang_url)
-
-
-def scrape_lang_zh(language):
-    """抓取某个语言的中文 trending"""
-    lang_url = f"https://github.com/trending/{urllib.parse.quote_plus(language)}?spoken_language_code=zh" if language else "https://github.com/trending?spoken_language_code=zh"
-    return scrape_url(lang_url)
-
-
-# -------------------------
-# Markdown 输出逻辑
-# -------------------------
-def format_description(desc):
-    return desc.replace('\r', '').replace('\n', '') if desc else ''
-
-
-def convert_lang_title(lang):
-    return "## All language" if lang == '' else f"## {lang.capitalize()}"
-
+def unique_by_url(results):
+    """按 URL 去重并保持顺序"""
+    seen = set()
+    out = []
+    for r in results:
+        if r['url'] not in seen:
+            seen.add(r['url'])
+            out.append(r)
+    return out
 
 def format_results_md(results):
+    """把一组结果格式化成 Markdown 字符串（带当前日期）"""
     date_str = datetime.datetime.now().strftime('%Y-%m-%d')
-    content = ""
+    lines = []
     for r in results:
-        content += f"* 【{date_str}】[{r['title']}]({r['url']}) - {r['description']}\n"
-    return content
+        lines.append(f"* 【{date_str}】[{r['title']}]({r['url']}) - {r['description']}")
+    return "\n".join(lines) + ("\n" if lines else "")
 
+def ensure_dir(path):
+    if not os.path.exists(path):
+        os.makedirs(path, exist_ok=True)
 
-def write_daily_file(base_dir, lang, results):
-    """写入每日 markdown 文件"""
-    os.makedirs(base_dir, exist_ok=True)
+def read_today_file_lines(base_dir):
+    """读取今日文件的所有行（用于去重），返回 set(url)"""
+    ensure_dir(base_dir)
     today = datetime.datetime.now().strftime('%Y-%m-%d')
     file_path = os.path.join(base_dir, f"{today}.md")
+    if not os.path.exists(file_path):
+        return set()
+    urls = set()
+    try:
+        with open(file_path, 'r', encoding='utf-8') as f:
+            for line in f:
+                # 期望格式包含 (https://github.com/xxx) ，尝试解析 url
+                if '](' in line and ')' in line:
+                    try:
+                        part = line.split('](')[1]
+                        url = part.split(')')[0].strip()
+                        if url.startswith('https://github.com'):
+                            urls.add(url)
+                    except Exception:
+                        continue
+    except Exception as e:
+        print(f"⚠️ Read file error {file_path}: {e}")
+    return urls
 
-    lang_title = convert_lang_title(lang)
-    md_content = format_results_md(results)
+def append_to_daily(base_dir, lang_title, results):
+    """将 results 写入 base_dir/today.md，写前根据 URL 去重（避免今日重复条目）"""
+    ensure_dir(base_dir)
+    today = datetime.datetime.now().strftime('%Y-%m-%d')
+    file_path = os.path.join(base_dir, f"{today}.md")
+    existing_urls = read_today_file_lines(base_dir)
 
-    with open(file_path, "a", encoding="utf-8") as f:
-        f.write(f"{lang_title}\n\n{md_content}\n")
+    # 过滤掉已存在的 url
+    new_results = [r for r in results if r['url'] not in existing_urls]
+    if not new_results:
+        print(f"ℹ️ No new items to write for '{lang_title}' in {base_dir}")
+        return 0
 
-    print(f"✅ Wrote {len(results)} items for {lang or 'all'} to {file_path}")
+    md_block = f"{lang_title}\n\n" + format_results_md(new_results) + "\n"
+    try:
+        with open(file_path, 'a', encoding='utf-8') as f:
+            f.write(md_block)
+        print(f"✅ Wrote {len(new_results)} items to {file_path} (section: {lang_title})")
+    except Exception as e:
+        print(f"⚠️ Failed to write {file_path}: {e}")
+        return 0
+    return len(new_results)
 
-
-# -------------------------
-# 主任务
-# -------------------------
-def job():
-    """主入口：抓取多语言 trending"""
-    languages = ['', 'java', 'python', 'javascript', 'go', 'c', 'c++', 'c#', 'html', 'css', 'unknown']
-
-    # 抓英文 trending
-    for lang in languages:
-        results = scrape_lang(lang)
-        if results:
-            write_daily_file("daily", lang, results)
-
-    # 抓中文 trending
-    for lang in languages:
-        results_zh = scrape_lang_zh(lang)
-        if results_zh:
-            write_daily_file("daily_zh", lang, results_zh)
-
-
-if __name__ == "__main__":
-    job()
+def run_all():
+    # All language (no suffix) -> daily
+    print("=== Scraping All language (base) -> daily ===")
+    all_results = scrape_url("https://github.com/trending")
+    all_results = unique_by_url(all_results)
+    append_to_daily("daily", "## A
