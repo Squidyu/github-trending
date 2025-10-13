@@ -12,117 +12,104 @@ HEADERS = {
     'Accept-Language': 'zh-CN,zh;q=0.8'
 }
 
+# -------------------------
+# 核心爬取函数
+# -------------------------
 def scrape_url(url):
-    """Scrape github trending url"""
-    print(f"Scraping: {url}")
+    print(f"🕸️ Fetching: {url}")
     r = requests.get(url, headers=HEADERS)
-    assert r.status_code == 200, f"Request failed: {r.status_code}"
+    if r.status_code != 200:
+        print(f"⚠️ Request failed: {r.status_code}")
+        return []
 
     d = pq(r.content)
     items = d('div.Box article.Box-row')
-    results = []
 
+    results = []
     for item in items:
         i = pq(item)
         title = i(".lh-condensed a").text()
         description = i("p.col-9").text()
-        repo_url = i(".lh-condensed a").attr("href")
-        if repo_url:
-            repo_url = "https://github.com" + repo_url.strip()
+        href = i(".lh-condensed a").attr("href")
+        if not href:
+            continue
+        url = "https://github.com" + href.strip()
         results.append({
             'title': title,
-            'url': repo_url,
-            'description': (description or '').replace('\r', '').replace('\n', '')
+            'url': url,
+            'description': format_description(description)
         })
     return results
 
+
+# -------------------------
+# 爬取单语言（英文 + 中文）
+# -------------------------
 def scrape_lang(language):
-    """Scrape github trending with lang parameters"""
-    url1 = f'https://github.com/trending/{urllib.parse.quote_plus(language)}'
-    url2 = f'{url1}?spoken_language_code=zh'
+    """抓取某个语言的英文 trending"""
+    lang_url = f"https://github.com/trending/{urllib.parse.quote_plus(language)}" if language else "https://github.com/trending"
+    return scrape_url(lang_url)
 
-    results1 = scrape_url(url1)
-    results2 = scrape_url(url2)
 
-    # 合并去重
-    seen = set()
-    merged = []
-    for r in results1 + results2:
-        if r['title'] not in seen:
-            seen.add(r['title'])
-            merged.append(r)
-    return merged
+def scrape_lang_zh(language):
+    """抓取某个语言的中文 trending"""
+    lang_url = f"https://github.com/trending/{urllib.parse.quote_plus(language)}?spoken_language_code=zh" if language else "https://github.com/trending?spoken_language_code=zh"
+    return scrape_url(lang_url)
+
+
+# -------------------------
+# Markdown 输出逻辑
+# -------------------------
+def format_description(desc):
+    return desc.replace('\r', '').replace('\n', '') if desc else ''
+
 
 def convert_lang_title(lang):
-    if lang == '':
-        return '## All language'
-    return f'## {lang.capitalize()}'
+    return "## All language" if lang == '' else f"## {lang.capitalize()}"
 
-def get_archived_contents():
-    archived_contents = []
-    if not os.path.exists('./daily'):
-        os.makedirs('./daily')
-    for file in os.listdir('./daily'):
-        if file.endswith('.md'):
-            with open(f'./daily/{file}', mode='r', encoding='utf-8') as f:
-                archived_contents.append(f.read())
-    return archived_contents
 
-def is_title_exist(title, content_list):
-    """判断项目是否已存在于任意历史内容中"""
-    for content in content_list:
-        if f"[{title}]" in content:
-            return True
-    return False
+def format_results_md(results):
+    date_str = datetime.datetime.now().strftime('%Y-%m-%d')
+    content = ""
+    for r in results:
+        content += f"* 【{date_str}】[{r['title']}]({r['url']}) - {r['description']}\n"
+    return content
 
-def write_markdown(lang, results, archived_contents):
-    """更新 README.md 并生成 daily 文件"""
+
+def write_daily_file(base_dir, lang, results):
+    """写入每日 markdown 文件"""
+    os.makedirs(base_dir, exist_ok=True)
     today = datetime.datetime.now().strftime('%Y-%m-%d')
+    file_path = os.path.join(base_dir, f"{today}.md")
+
     lang_title = convert_lang_title(lang)
-    today_file = f'./daily/{today}.md'
+    md_content = format_results_md(results)
 
-    # 生成新增内容
-    new_results = [
-        r for r in results if not is_title_exist(r['title'], archived_contents)
-    ]
-    if not new_results:
-        print(f"No new results for {lang or 'all'} today.")
-        return
+    with open(file_path, "a", encoding="utf-8") as f:
+        f.write(f"{lang_title}\n\n{md_content}\n")
 
-    result_str = ""
-    for r in new_results:
-        result_str += f"* 【{today}】[{r['title']}]({r['url']}) - {r['description']}\n"
+    print(f"✅ Wrote {len(results)} items for {lang or 'all'} to {file_path}")
 
-    # 写入 README.md
-    if os.path.exists('README.md'):
-        with open('README.md', 'r', encoding='utf-8') as f:
-            readme_content = f.read()
-    else:
-        readme_content = ''
 
-    if lang_title not in readme_content:
-        readme_content += f'\n{lang_title}\n\n'
-
-    readme_content = readme_content.replace(
-        f'{lang_title}\n\n', f'{lang_title}\n\n{result_str}'
-    )
-    with open('README.md', 'w', encoding='utf-8') as f:
-        f.write(readme_content)
-
-    # 写入 daily 文件
-    with open(today_file, 'a', encoding='utf-8') as f:
-        f.write(f'{lang_title}\n\n{result_str}\n')
-
-    print(f"✅ Wrote {len(new_results)} new results for {lang or 'all'} to {today_file}")
-
+# -------------------------
+# 主任务
+# -------------------------
 def job():
-    """Main job entry"""
-    archived_contents = get_archived_contents()
-
+    """主入口：抓取多语言 trending"""
     languages = ['', 'java', 'python', 'javascript', 'go', 'c', 'c++', 'c#', 'html', 'css', 'unknown']
+
+    # 抓英文 trending
     for lang in languages:
         results = scrape_lang(lang)
-        write_markdown(lang, results, archived_contents)
+        if results:
+            write_daily_file("daily", lang, results)
 
-if __name__ == '__main__':
+    # 抓中文 trending
+    for lang in languages:
+        results_zh = scrape_lang_zh(lang)
+        if results_zh:
+            write_daily_file("daily_zh", lang, results_zh)
+
+
+if __name__ == "__main__":
     job()
