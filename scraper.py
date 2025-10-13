@@ -119,4 +119,29 @@ def run_all():
     print("=== Scraping All language (base) -> daily ===")
     all_results = scrape_url("https://github.com/trending")
     all_results = unique_by_url(all_results)
-    append_to_daily("daily", "## A
+    append_to_daily("daily", "## All language", all_results)
+
+    # Each language (english pages) -> daily
+    for lang in LANGUAGES:
+        print(f"--- language: {lang} -> daily ---")
+        url = f"https://github.com/trending/{urllib.parse.quote_plus(lang)}"
+        results = scrape_url(url)
+        results = unique_by_url(results)
+        append_to_daily("daily", f"## {lang.capitalize()}", results)
+
+    # All language zh (spoken_language_code=zh) -> daily_zh
+    print("=== Scraping All language (spoken_language_code=zh) -> daily_zh ===")
+    all_zh = scrape_url("https://github.com/trending?spoken_language_code=zh")
+    all_zh = unique_by_url(all_zh)
+    append_to_daily("daily_zh", "## All language (zh)", all_zh)
+
+    # Each language zh -> daily_zh
+    for lang in LANGUAGES:
+        print(f"--- language: {lang} (zh) -> daily_zh ---")
+        url = f"https://github.com/trending/{urllib.parse.quote_plus(lang)}?spoken_language_code=zh"
+        results = scrape_url(url)
+        results = unique_by_url(results)
+        append_to_daily("daily_zh", f"## {lang.capitalize()} (zh)", results)
+
+if __name__ == "__main__":
+    run_all()
